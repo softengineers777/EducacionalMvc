@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "EducacionalMvc/1.0.0": {
+        "runtime": {
+          "EducacionalMvc.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "EducacionalMvc/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

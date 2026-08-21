@@ -1,0 +1,115 @@
+is_global = true
+build_property.TargetFramework = net8.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = EducacionalMvc
+build_property.RootNamespace = EducacionalMvc
+build_property.ProjectDir = /home/ingeniero-james/Documentos/EducacionalMvc/EducacionalMvc/
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 8.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = /home/ingeniero-james/Documentos/EducacionalMvc/EducacionalMvc
+build_property._RazorSourceGeneratorDebug = 
+
+[/home/ingeniero-james/Documentos/EducacionalMvc/EducacionalMvc/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9JbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/ingeniero-james/Documentos/EducacionalMvc/EducacionalMvc/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9Qcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/ingeniero-james/Documentos/EducacionalMvc/EducacionalMvc/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL0Vycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/ingeniero-james/Documentos/EducacionalMvc/EducacionalMvc/Views/Shared/_Preload.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL19QcmVsb2FkLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/ingeniero-james/Documentos/EducacionalMvc/EducacionalMvc/Views/Shared/_start_about_us_home_one.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL19zdGFydF9hYm91dF91c19ob21lX29uZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/ingeniero-james/Documentos/EducacionalMvc/EducacionalMvc/Views/Shared/_start_blog.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL19zdGFydF9ibG9nLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/ingeniero-james/Documentos/EducacionalMvc/EducacionalMvc/Views/Shared/_start_counter.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL19zdGFydF9jb3VudGVyLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/ingeniero-james/Documentos/EducacionalMvc/EducacionalMvc/Views/Shared/_start_course.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL19zdGFydF9jb3Vyc2UuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/ingeniero-james/Documentos/EducacionalMvc/EducacionalMvc/Views/Shared/_start_footer.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL19zdGFydF9mb290ZXIuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/ingeniero-james/Documentos/EducacionalMvc/EducacionalMvc/Views/Shared/_start_home.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL19zdGFydF9ob21lLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/ingeniero-james/Documentos/EducacionalMvc/EducacionalMvc/Views/Shared/_start_instructor_free_course.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL19zdGFydF9pbnN0cnVjdG9yX2ZyZWVfY291cnNlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/ingeniero-james/Documentos/EducacionalMvc/EducacionalMvc/Views/Shared/_start_navbar.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL19zdGFydF9uYXZiYXIuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/ingeniero-james/Documentos/EducacionalMvc/EducacionalMvc/Views/Shared/_start_Newsletter.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL19zdGFydF9OZXdzbGV0dGVyLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/ingeniero-james/Documentos/EducacionalMvc/EducacionalMvc/Views/Shared/_start_team.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL19zdGFydF90ZWFtLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/ingeniero-james/Documentos/EducacionalMvc/EducacionalMvc/Views/Shared/_start_testimonials.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL19zdGFydF90ZXN0aW1vbmlhbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/ingeniero-james/Documentos/EducacionalMvc/EducacionalMvc/Views/Shared/_start_topic.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL19zdGFydF90b3BpYy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/ingeniero-james/Documentos/EducacionalMvc/EducacionalMvc/Views/Shared/_start_top_header_class.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL19zdGFydF90b3BfaGVhZGVyX2NsYXNzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/ingeniero-james/Documentos/EducacionalMvc/EducacionalMvc/Views/Shared/_start_top_promo_features.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL19zdGFydF90b3BfcHJvbW9fZmVhdHVyZXMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/ingeniero-james/Documentos/EducacionalMvc/EducacionalMvc/Views/Shared/_start_video.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL19zdGFydF92aWRlby5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/ingeniero-james/Documentos/EducacionalMvc/EducacionalMvc/Views/Shared/_start_why_choose_us.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL19zdGFydF93aHlfY2hvb3NlX3VzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/ingeniero-james/Documentos/EducacionalMvc/EducacionalMvc/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL19WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/ingeniero-james/Documentos/EducacionalMvc/EducacionalMvc/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/ingeniero-james/Documentos/EducacionalMvc/EducacionalMvc/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/ingeniero-james/Documentos/EducacionalMvc/EducacionalMvc/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL19MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-3pdeofz8xc

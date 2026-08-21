@@ -1,0 +1,1941 @@
+{
+  "Files": [
+    {
+      "Id": "/home/ingeniero-james/Documentos/EducacionalMvc/EducacionalMvc/obj/Debug/net8.0/scopedcss/projectbundle/EducacionalMvc.bundle.scp.css",
+      "PackagePath": "staticwebassets/EducacionalMvc.bundle.scp.css"
+    },
+    {
+      "Id": "/home/ingeniero-james/Documentos/EducacionalMvc/EducacionalMvc/wwwroot/assets/bootstrap/css/bootstrap.min.css",
+      "PackagePath": "staticwebassets/assets/bootstrap/css/bootstrap.min.css"
+    },
+    {
+      "Id": "/home/ingeniero-james/Documentos/EducacionalMvc/EducacionalMvc/wwwroot/assets/bootstrap/js/bootstrap.min.js",
+      "PackagePath": "staticwebassets/assets/bootstrap/js/bootstrap.min.js"
+    },
+    {
+      "Id": "/home/ingeniero-james/Documentos/EducacionalMvc/EducacionalMvc/wwwroot/assets/css/all.min.css",
+      "PackagePath": "staticwebassets/assets/css/all.min.css"
+    },
+    {
+      "Id": "/home/ingeniero-james/Documentos/EducacionalMvc/EducacionalMvc/wwwroot/assets/css/animate.css",
+      "PackagePath": "staticwebassets/assets/css/animate.css"
+    },
+    {
+      "Id": "/home/ingeniero-james/Documentos/EducacionalMvc/EducacionalMvc/wwwroot/assets/css/animate.min.css",
+      "PackagePath": "staticwebassets/assets/css/animate.min.css"
+    },
+    {
+      "Id": "/home/ingeniero-james/Documentos/EducacionalMvc/EducacionalMvc/wwwroot/assets/css/close.gif",
+      "PackagePath": "staticwebassets/assets/css/close.gif"
+    },
+    {
+      "Id": "/home/ingeniero-james/Documentos/EducacionalMvc/EducacionalMvc/wwwroot/assets/css/fontawesome.min.css",
+      "PackagePath": "staticwebassets/assets/css/fontawesome.min.css"
+    },
+    {
+      "Id": "/home/ingeniero-james/Documentos/EducacionalMvc/EducacionalMvc/wwwroot/assets/css/jquery-simple-mobilemenu.css",
+      "PackagePath": "staticwebassets/assets/css/jquery-simple-mobilemenu.css"
+    },
+    {
+      "Id": "/home/ingeniero-james/Documentos/EducacionalMvc/EducacionalMvc/wwwroot/assets/css/magnific-popup.css",
+      "PackagePath": "staticwebassets/assets/css/magnific-popup.css"
+    },
+    {
+      "Id": "/home/ingeniero-james/Documentos/EducacionalMvc/EducacionalMvc/wwwroot/assets/css/next.gif",
+      "PackagePath": "staticwebassets/assets/css/next.gif"
+    },
+    {
+      "Id": "/home/ingeniero-james/Documentos/EducacionalMvc/EducacionalMvc/wwwroot/assets/css/niceselect.css",
+      "PackagePath": "staticwebassets/assets/css/niceselect.css"
+    },
+    {
+      "Id": "/home/ingeniero-james/Documentos/EducacionalMvc/EducacionalMvc/wwwroot/assets/css/preload-circle.png",
+      "PackagePath": "staticwebassets/assets/css/preload-circle.png"
+    },
+    {
+      "Id": "/home/ingeniero-james/Documentos/EducacionalMvc/EducacionalMvc/wwwroot/assets/css/prev.gif",
+      "PackagePath": "staticwebassets/assets/css/prev.gif"
+    },
+    {
+      "Id": "/home/ingeniero-james/Documentos/EducacionalMvc/EducacionalMvc/wwwroot/assets/css/shop.css",
+      "PackagePath": "staticwebassets/assets/css/shop.css"
+    },
+    {
+      "Id": "/home/ingeniero-james/Documentos/EducacionalMvc/EducacionalMvc/wwwroot/assets/css/style.css",
+      "PackagePath": "staticwebassets/assets/css/style.css"
+    },
+    {
+      "Id": "/home/ingeniero-james/Documentos/EducacionalMvc/EducacionalMvc/wwwroot/assets/images/all-img/404.svg",
+      "PackagePath": "staticwebassets/assets/images/all-img/404.svg"
+    },
+    {
+      "Id": "/home/ingeniero-james/Documentos/EducacionalMvc/EducacionalMvc/wwwroot/assets/images/all-img/about-image.jpg",
+      "PackagePath": "staticwebassets/assets/images/all-img/about-image.jpg"
+    },
+    {
+      "Id": "/home/ingeniero-james/Documentos/EducacionalMvc/EducacionalMvc/wwwroot/assets/images/all-img/about1.jpg",
+      "PackagePath": "staticwebassets/assets/images/all-img/about1.jpg"
+    },
+    {
+      "Id": "/home/ingeniero-james/Documentos/EducacionalMvc/EducacionalMvc/wwwroot/assets/images/all-img/about1.png",
+      "PackagePath": "staticwebassets/assets/images/all-img/about1.png"
+    },
+    {
+      "Id": "/home/ingeniero-james/Documentos/EducacionalMvc/EducacionalMvc/wwwroot/assets/images/all-img/about2.png",
+      "PackagePath": "staticwebassets/assets/images/all-img/about2.png"
+    },
+    {
+      "Id": "/home/ingeniero-james/Documentos/EducacionalMvc/EducacionalMvc/wwwroot/assets/images/all-img/about3.png",
+      "PackagePath": "staticwebassets/assets/images/all-img/about3.png"
+    },
+    {
+      "Id": "/home/ingeniero-james/Documentos/EducacionalMvc/EducacionalMvc/wwwroot/assets/images/all-img/app-store.jpg",
+      "PackagePath": "staticwebassets/assets/images/all-img/app-store.jpg"
+    },
+    {
+      "Id": "/home/ingeniero-james/Documentos/EducacionalMvc/EducacionalMvc/wwwroot/assets/images/all-img/avator.png",
+      "PackagePath": "staticwebassets/assets/images/all-img/avator.png"
+    },
+    {
+      "Id": "/home/ingeniero-james/Documentos/EducacionalMvc/EducacionalMvc/wwwroot/assets/images/all-img/back.png",
+      "PackagePath": "staticwebassets/assets/images/all-img/back.png"
+    },
+    {
+      "Id": "/home/ingeniero-james/Documentos/EducacionalMvc/EducacionalMvc/wwwroot/assets/images/all-img/become-ins.png",
+      "PackagePath": "staticwebassets/assets/images/all-img/become-ins.png"
+    },
+    {
+      "Id": "/home/ingeniero-james/Documentos/EducacionalMvc/EducacionalMvc/wwwroot/assets/images/all-img/book.svg",
+      "PackagePath": "staticwebassets/assets/images/all-img/book.svg"
+    },
+    {
+      "Id": "/home/ingeniero-james/Documentos/EducacionalMvc/EducacionalMvc/wwwroot/assets/images/all-img/client02.png",
+      "PackagePath": "staticwebassets/assets/images/all-img/client02.png"
+    },
+    {
+      "Id": "/home/ingeniero-james/Documentos/EducacionalMvc/EducacionalMvc/wwwroot/assets/images/all-img/client03.png",
+      "PackagePath": "staticwebassets/assets/images/all-img/client03.png"
+    },
+    {
+      "Id": "/home/ingeniero-james/Documentos/EducacionalMvc/EducacionalMvc/wwwroot/assets/images/all-img/client04.png",
+      "PackagePath": "staticwebassets/assets/images/all-img/client04.png"
+    },
+    {
+      "Id": "/home/ingeniero-james/Documentos/EducacionalMvc/EducacionalMvc/wwwroot/assets/images/all-img/clients/1.png",
+      "PackagePath": "staticwebassets/assets/images/all-img/clients/1.png"
+    },
+    {
+      "Id": "/home/ingeniero-james/Documentos/EducacionalMvc/EducacionalMvc/wwwroot/assets/images/all-img/clients/2.png",
+      "PackagePath": "staticwebassets/assets/images/all-img/clients/2.png"
+    },
+    {
+      "Id": "/home/ingeniero-james/Documentos/EducacionalMvc/EducacionalMvc/wwwroot/assets/images/all-img/clients/3.png",
+      "PackagePath": "staticwebassets/assets/images/all-img/clients/3.png"
+    },
+    {
+      "Id": "/home/ingeniero-james/Documentos/EducacionalMvc/EducacionalMvc/wwwroot/assets/images/all-img/clients/4.png",
+      "PackagePath": "staticwebassets/assets/images/all-img/clients/4.png"
+    },
+    {
+      "Id": "/home/ingeniero-james/Documentos/EducacionalMvc/EducacionalMvc/wwwroot/assets/images/all-img/clients/5.png",
+      "PackagePath": "staticwebassets/assets/images/all-img/clients/5.png"
+    },
+    {
+      "Id": "/home/ingeniero-james/Documentos/EducacionalMvc/EducacionalMvc/wwwroot/assets/images/all-img/clients/b1.svg",
+      "PackagePath": "staticwebassets/assets/images/all-img/clients/b1.svg"
+    },
+    {
+      "Id": "/home/ingeniero-james/Documentos/EducacionalMvc/EducacionalMvc/wwwroot/assets/images/all-img/clients/b2.svg",
+      "PackagePath": "staticwebassets/assets/images/all-img/clients/b2.svg"
+    },
+    {
+      "Id": "/home/ingeniero-james/Documentos/EducacionalMvc/EducacionalMvc/wwwroot/assets/images/all-img/clients/b3.svg",
+      "PackagePath": "staticwebassets/assets/images/all-img/clients/b3.svg"
+    },
+    {
+      "Id": "/home/ingeniero-james/Documentos/EducacionalMvc/EducacionalMvc/wwwroot/assets/images/all-img/clients/b4.svg",
+      "PackagePath": "staticwebassets/assets/images/all-img/clients/b4.svg"
+    },
+    {
+      "Id": "/home/ingeniero-james/Documentos/EducacionalMvc/EducacionalMvc/wwwroot/assets/images/all-img/clients/b5.svg",
+      "PackagePath": "staticwebassets/assets/images/all-img/clients/b5.svg"
+    },
+    {
+      "Id": "/home/ingeniero-james/Documentos/EducacionalMvc/EducacionalMvc/wwwroot/assets/images/all-img/cmnt-1.png",
+      "PackagePath": "staticwebassets/assets/images/all-img/cmnt-1.png"
+    },
+    {
+      "Id": "/home/ingeniero-james/Documentos/EducacionalMvc/EducacionalMvc/wwwroot/assets/images/all-img/faq.png",
+      "PackagePath": "staticwebassets/assets/images/all-img/faq.png"
+    },
+    {
+      "Id": "/home/ingeniero-james/Documentos/EducacionalMvc/EducacionalMvc/wwwroot/assets/images/all-img/free-course.png",
+      "PackagePath": "staticwebassets/assets/images/all-img/free-course.png"
+    },
+    {
+      "Id": "/home/ingeniero-james/Documentos/EducacionalMvc/EducacionalMvc/wwwroot/assets/images/all-img/google-play.jpg",
+      "PackagePath": "staticwebassets/assets/images/all-img/google-play.jpg"
+    },
+    {
+      "Id": "/home/ingeniero-james/Documentos/EducacionalMvc/EducacionalMvc/wwwroot/assets/images/all-img/home-image.png",
+      "PackagePath": "staticwebassets/assets/images/all-img/home-image.png"
+    },
+    {
+      "Id": "/home/ingeniero-james/Documentos/EducacionalMvc/EducacionalMvc/wwwroot/assets/images/all-img/home-img1.png",
+      "PackagePath": "staticwebassets/assets/images/all-img/home-img1.png"
+    },
+    {
+      "Id": "/home/ingeniero-james/Documentos/EducacionalMvc/EducacionalMvc/wwwroot/assets/images/all-img/ins-details.png",
+      "PackagePath": "staticwebassets/assets/images/all-img/ins-details.png"
+    },
+    {
+      "Id": "/home/ingeniero-james/Documentos/EducacionalMvc/EducacionalMvc/wwwroot/assets/images/all-img/instractor1.jpg",
+      "PackagePath": "staticwebassets/assets/images/all-img/instractor1.jpg"
+    },
+    {
+      "Id": "/home/ingeniero-james/Documentos/EducacionalMvc/EducacionalMvc/wwwroot/assets/images/all-img/instractor2.jpg",
+      "PackagePath": "staticwebassets/assets/images/all-img/instractor2.jpg"
+    },
+    {
+      "Id": "/home/ingeniero-james/Documentos/EducacionalMvc/EducacionalMvc/wwwroot/assets/images/all-img/light.svg",
+      "PackagePath": "staticwebassets/assets/images/all-img/light.svg"
+    },
+    {
+      "Id": "/home/ingeniero-james/Documentos/EducacionalMvc/EducacionalMvc/wwwroot/assets/images/all-img/logo.png",
+      "PackagePath": "staticwebassets/assets/images/all-img/logo.png"
+    },
+    {
+      "Id": "/home/ingeniero-james/Documentos/EducacionalMvc/EducacionalMvc/wwwroot/assets/images/all-img/next.png",
+      "PackagePath": "staticwebassets/assets/images/all-img/next.png"
+    },
+    {
+      "Id": "/home/ingeniero-james/Documentos/EducacionalMvc/EducacionalMvc/wwwroot/assets/images/all-img/rc-1.png",
+      "PackagePath": "staticwebassets/assets/images/all-img/rc-1.png"
+    },
+    {
+      "Id": "/home/ingeniero-james/Documentos/EducacionalMvc/EducacionalMvc/wwwroot/assets/images/all-img/rc-2.png",
+      "PackagePath": "staticwebassets/assets/images/all-img/rc-2.png"
+    },
+    {
+      "Id": "/home/ingeniero-james/Documentos/EducacionalMvc/EducacionalMvc/wwwroot/assets/images/all-img/rc-3.png",
+      "PackagePath": "staticwebassets/assets/images/all-img/rc-3.png"
+    },
+    {
+      "Id": "/home/ingeniero-james/Documentos/EducacionalMvc/EducacionalMvc/wwwroot/assets/images/all-img/star.svg",
+      "PackagePath": "staticwebassets/assets/images/all-img/star.svg"
+    },
+    {
+      "Id": "/home/ingeniero-james/Documentos/EducacionalMvc/EducacionalMvc/wwwroot/assets/images/all-img/t1.png",
+      "PackagePath": "staticwebassets/assets/images/all-img/t1.png"
+    },
+    {
+      "Id": "/home/ingeniero-james/Documentos/EducacionalMvc/EducacionalMvc/wwwroot/assets/images/all-img/t2.png",
+      "PackagePath": "staticwebassets/assets/images/all-img/t2.png"
+    },
+    {
+      "Id": "/home/ingeniero-james/Documentos/EducacionalMvc/EducacionalMvc/wwwroot/assets/images/all-img/t3.png",
+      "PackagePath": "staticwebassets/assets/images/all-img/t3.png"
+    },
+    {
+      "Id": "/home/ingeniero-james/Documentos/EducacionalMvc/EducacionalMvc/wwwroot/assets/images/all-img/target.svg",
+      "PackagePath": "staticwebassets/assets/images/all-img/target.svg"
+    },
+    {
+      "Id": "/home/ingeniero-james/Documentos/EducacionalMvc/EducacionalMvc/wwwroot/assets/images/banner/bg-scaled.jpg",
+      "PackagePath": "staticwebassets/assets/images/banner/bg-scaled.jpg"
+    },
+    {
+      "Id": "/home/ingeniero-james/Documentos/EducacionalMvc/EducacionalMvc/wwwroot/assets/images/banner/home-bg.jpg",
+      "PackagePath": "staticwebassets/assets/images/banner/home-bg.jpg"
+    },
+    {
+      "Id": "/home/ingeniero-james/Documentos/EducacionalMvc/EducacionalMvc/wwwroot/assets/images/banner/video.jpg",
+      "PackagePath": "staticwebassets/assets/images/banner/video.jpg"
+    },
+    {
+      "Id": "/home/ingeniero-james/Documentos/EducacionalMvc/EducacionalMvc/wwwroot/assets/images/blog/1.jpg",
+      "PackagePath": "staticwebassets/assets/images/blog/1.jpg"
+    },
+    {
+      "Id": "/home/ingeniero-james/Documentos/EducacionalMvc/EducacionalMvc/wwwroot/assets/images/blog/2.jpg",
+      "PackagePath": "staticwebassets/assets/images/blog/2.jpg"
+    },
+    {
+      "Id": "/home/ingeniero-james/Documentos/EducacionalMvc/EducacionalMvc/wwwroot/assets/images/blog/3.jpg",
+      "PackagePath": "staticwebassets/assets/images/blog/3.jpg"
+    },
+    {
+      "Id": "/home/ingeniero-james/Documentos/EducacionalMvc/EducacionalMvc/wwwroot/assets/images/blog/author.jpg",
+      "PackagePath": "staticwebassets/assets/images/blog/author.jpg"
+    },
+    {
+      "Id": "/home/ingeniero-james/Documentos/EducacionalMvc/EducacionalMvc/wwwroot/assets/images/blog/banner.jpg",
+      "PackagePath": "staticwebassets/assets/images/blog/banner.jpg"
+    },
+    {
+      "Id": "/home/ingeniero-james/Documentos/EducacionalMvc/EducacionalMvc/wwwroot/assets/images/blog/blog-1.png",
+      "PackagePath": "staticwebassets/assets/images/blog/blog-1.png"
+    },
+    {
+      "Id": "/home/ingeniero-james/Documentos/EducacionalMvc/EducacionalMvc/wwwroot/assets/images/blog/blog-2.png",
+      "PackagePath": "staticwebassets/assets/images/blog/blog-2.png"
+    },
+    {
+      "Id": "/home/ingeniero-james/Documentos/EducacionalMvc/EducacionalMvc/wwwroot/assets/images/blog/blog-3.png",
+      "PackagePath": "staticwebassets/assets/images/blog/blog-3.png"
+    },
+    {
+      "Id": "/home/ingeniero-james/Documentos/EducacionalMvc/EducacionalMvc/wwwroot/assets/images/blog/blog-4.png",
+      "PackagePath": "staticwebassets/assets/images/blog/blog-4.png"
+    },
+    {
+      "Id": "/home/ingeniero-james/Documentos/EducacionalMvc/EducacionalMvc/wwwroot/assets/images/blog/blog-5.png",
+      "PackagePath": "staticwebassets/assets/images/blog/blog-5.png"
+    },
+    {
+      "Id": "/home/ingeniero-james/Documentos/EducacionalMvc/EducacionalMvc/wwwroot/assets/images/blog/c1.jpg",
+      "PackagePath": "staticwebassets/assets/images/blog/c1.jpg"
+    },
+    {
+      "Id": "/home/ingeniero-james/Documentos/EducacionalMvc/EducacionalMvc/wwwroot/assets/images/blog/c2.jpg",
+      "PackagePath": "staticwebassets/assets/images/blog/c2.jpg"
+    },
+    {
+      "Id": "/home/ingeniero-james/Documentos/EducacionalMvc/EducacionalMvc/wwwroot/assets/images/blog/c3.jpg",
+      "PackagePath": "staticwebassets/assets/images/blog/c3.jpg"
+    },
+    {
+      "Id": "/home/ingeniero-james/Documentos/EducacionalMvc/EducacionalMvc/wwwroot/assets/images/category/cat1.jpg",
+      "PackagePath": "staticwebassets/assets/images/category/cat1.jpg"
+    },
+    {
+      "Id": "/home/ingeniero-james/Documentos/EducacionalMvc/EducacionalMvc/wwwroot/assets/images/category/cat2.jpg",
+      "PackagePath": "staticwebassets/assets/images/category/cat2.jpg"
+    },
+    {
+      "Id": "/home/ingeniero-james/Documentos/EducacionalMvc/EducacionalMvc/wwwroot/assets/images/category/cat3.jpg",
+      "PackagePath": "staticwebassets/assets/images/category/cat3.jpg"
+    },
+    {
+      "Id": "/home/ingeniero-james/Documentos/EducacionalMvc/EducacionalMvc/wwwroot/assets/images/category/cat4.jpg",
+      "PackagePath": "staticwebassets/assets/images/category/cat4.jpg"
+    },
+    {
+      "Id": "/home/ingeniero-james/Documentos/EducacionalMvc/EducacionalMvc/wwwroot/assets/images/category/cat5.jpg",
+      "PackagePath": "staticwebassets/assets/images/category/cat5.jpg"
+    },
+    {
+      "Id": "/home/ingeniero-james/Documentos/EducacionalMvc/EducacionalMvc/wwwroot/assets/images/category/cat6.jpg",
+      "PackagePath": "staticwebassets/assets/images/category/cat6.jpg"
+    },
+    {
+      "Id": "/home/ingeniero-james/Documentos/EducacionalMvc/EducacionalMvc/wwwroot/assets/images/category/cat7.jpg",
+      "PackagePath": "staticwebassets/assets/images/category/cat7.jpg"
+    },
+    {
+      "Id": "/home/ingeniero-james/Documentos/EducacionalMvc/EducacionalMvc/wwwroot/assets/images/category/cat8.jpg",
+      "PackagePath": "staticwebassets/assets/images/category/cat8.jpg"
+    },
+    {
+      "Id": "/home/ingeniero-james/Documentos/EducacionalMvc/EducacionalMvc/wwwroot/assets/images/clients/1.png",
+      "PackagePath": "staticwebassets/assets/images/clients/1.png"
+    },
+    {
+      "Id": "/home/ingeniero-james/Documentos/EducacionalMvc/EducacionalMvc/wwwroot/assets/images/clients/2.png",
+      "PackagePath": "staticwebassets/assets/images/clients/2.png"
+    },
+    {
+      "Id": "/home/ingeniero-james/Documentos/EducacionalMvc/EducacionalMvc/wwwroot/assets/images/clients/3.png",
+      "PackagePath": "staticwebassets/assets/images/clients/3.png"
+    },
+    {
+      "Id": "/home/ingeniero-james/Documentos/EducacionalMvc/EducacionalMvc/wwwroot/assets/images/clients/4.png",
+      "PackagePath": "staticwebassets/assets/images/clients/4.png"
+    },
+    {
+      "Id": "/home/ingeniero-james/Documentos/EducacionalMvc/EducacionalMvc/wwwroot/assets/images/clients/5.png",
+      "PackagePath": "staticwebassets/assets/images/clients/5.png"
+    },
+    {
+      "Id": "/home/ingeniero-james/Documentos/EducacionalMvc/EducacionalMvc/wwwroot/assets/images/clients/6.png",
+      "PackagePath": "staticwebassets/assets/images/clients/6.png"
+    },
+    {
+      "Id": "/home/ingeniero-james/Documentos/EducacionalMvc/EducacionalMvc/wwwroot/assets/images/course/1.jpg",
+      "PackagePath": "staticwebassets/assets/images/course/1.jpg"
+    },
+    {
+      "Id": "/home/ingeniero-james/Documentos/EducacionalMvc/EducacionalMvc/wwwroot/assets/images/course/2.jpg",
+      "PackagePath": "staticwebassets/assets/images/course/2.jpg"
+    },
+    {
+      "Id": "/home/ingeniero-james/Documentos/EducacionalMvc/EducacionalMvc/wwwroot/assets/images/course/3.jpg",
+      "PackagePath": "staticwebassets/assets/images/course/3.jpg"
+    },
+    {
+      "Id": "/home/ingeniero-james/Documentos/EducacionalMvc/EducacionalMvc/wwwroot/assets/images/course/4.jpg",
+      "PackagePath": "staticwebassets/assets/images/course/4.jpg"
+    },
+    {
+      "Id": "/home/ingeniero-james/Documentos/EducacionalMvc/EducacionalMvc/wwwroot/assets/images/course/5.jpg",
+      "PackagePath": "staticwebassets/assets/images/course/5.jpg"
+    },
+    {
+      "Id": "/home/ingeniero-james/Documentos/EducacionalMvc/EducacionalMvc/wwwroot/assets/images/course/6.jpg",
+      "PackagePath": "staticwebassets/assets/images/course/6.jpg"
+    },
+    {
+      "Id": "/home/ingeniero-james/Documentos/EducacionalMvc/EducacionalMvc/wwwroot/assets/images/course/c1.png",
+      "PackagePath": "staticwebassets/assets/images/course/c1.png"
+    },
+    {
+      "Id": "/home/ingeniero-james/Documentos/EducacionalMvc/EducacionalMvc/wwwroot/assets/images/course/c10.png",
+      "PackagePath": "staticwebassets/assets/images/course/c10.png"
+    },
+    {
+      "Id": "/home/ingeniero-james/Documentos/EducacionalMvc/EducacionalMvc/wwwroot/assets/images/course/c11.png",
+      "PackagePath": "staticwebassets/assets/images/course/c11.png"
+    },
+    {
+      "Id": "/home/ingeniero-james/Documentos/EducacionalMvc/EducacionalMvc/wwwroot/assets/images/course/c12.png",
+      "PackagePath": "staticwebassets/assets/images/course/c12.png"
+    },
+    {
+      "Id": "/home/ingeniero-james/Documentos/EducacionalMvc/EducacionalMvc/wwwroot/assets/images/course/c2.png",
+      "PackagePath": "staticwebassets/assets/images/course/c2.png"
+    },
+    {
+      "Id": "/home/ingeniero-james/Documentos/EducacionalMvc/EducacionalMvc/wwwroot/assets/images/course/c3.png",
+      "PackagePath": "staticwebassets/assets/images/course/c3.png"
+    },
+    {
+      "Id": "/home/ingeniero-james/Documentos/EducacionalMvc/EducacionalMvc/wwwroot/assets/images/course/c4.png",
+      "PackagePath": "staticwebassets/assets/images/course/c4.png"
+    },
+    {
+      "Id": "/home/ingeniero-james/Documentos/EducacionalMvc/EducacionalMvc/wwwroot/assets/images/course/c7.png",
+      "PackagePath": "staticwebassets/assets/images/course/c7.png"
+    },
+    {
+      "Id": "/home/ingeniero-james/Documentos/EducacionalMvc/EducacionalMvc/wwwroot/assets/images/course/c8.png",
+      "PackagePath": "staticwebassets/assets/images/course/c8.png"
+    },
+    {
+      "Id": "/home/ingeniero-james/Documentos/EducacionalMvc/EducacionalMvc/wwwroot/assets/images/course/c9.png",
+      "PackagePath": "staticwebassets/assets/images/course/c9.png"
+    },
+    {
+      "Id": "/home/ingeniero-james/Documentos/EducacionalMvc/EducacionalMvc/wwwroot/assets/images/event/e1.png",
+      "PackagePath": "staticwebassets/assets/images/event/e1.png"
+    },
+    {
+      "Id": "/home/ingeniero-james/Documentos/EducacionalMvc/EducacionalMvc/wwwroot/assets/images/event/e11.png",
+      "PackagePath": "staticwebassets/assets/images/event/e11.png"
+    },
+    {
+      "Id": "/home/ingeniero-james/Documentos/EducacionalMvc/EducacionalMvc/wwwroot/assets/images/event/e2.png",
+      "PackagePath": "staticwebassets/assets/images/event/e2.png"
+    },
+    {
+      "Id": "/home/ingeniero-james/Documentos/EducacionalMvc/EducacionalMvc/wwwroot/assets/images/event/e22.png",
+      "PackagePath": "staticwebassets/assets/images/event/e22.png"
+    },
+    {
+      "Id": "/home/ingeniero-james/Documentos/EducacionalMvc/EducacionalMvc/wwwroot/assets/images/event/e3.png",
+      "PackagePath": "staticwebassets/assets/images/event/e3.png"
+    },
+    {
+      "Id": "/home/ingeniero-james/Documentos/EducacionalMvc/EducacionalMvc/wwwroot/assets/images/event/e33.png",
+      "PackagePath": "staticwebassets/assets/images/event/e33.png"
+    },
+    {
+      "Id": "/home/ingeniero-james/Documentos/EducacionalMvc/EducacionalMvc/wwwroot/assets/images/event/e4.png",
+      "PackagePath": "staticwebassets/assets/images/event/e4.png"
+    },
+    {
+      "Id": "/home/ingeniero-james/Documentos/EducacionalMvc/EducacionalMvc/wwwroot/assets/images/event/e5.png",
+      "PackagePath": "staticwebassets/assets/images/event/e5.png"
+    },
+    {
+      "Id": "/home/ingeniero-james/Documentos/EducacionalMvc/EducacionalMvc/wwwroot/assets/images/event/e6.png",
+      "PackagePath": "staticwebassets/assets/images/event/e6.png"
+    },
+    {
+      "Id": "/home/ingeniero-james/Documentos/EducacionalMvc/EducacionalMvc/wwwroot/assets/images/icon/book.svg",
+      "PackagePath": "staticwebassets/assets/images/icon/book.svg"
+    },
+    {
+      "Id": "/home/ingeniero-james/Documentos/EducacionalMvc/EducacionalMvc/wwwroot/assets/images/icon/camera.svg",
+      "PackagePath": "staticwebassets/assets/images/icon/camera.svg"
+    },
+    {
+      "Id": "/home/ingeniero-james/Documentos/EducacionalMvc/EducacionalMvc/wwwroot/assets/images/icon/ck.svg",
+      "PackagePath": "staticwebassets/assets/images/icon/ck.svg"
+    },
+    {
+      "Id": "/home/ingeniero-james/Documentos/EducacionalMvc/EducacionalMvc/wwwroot/assets/images/icon/clock.svg",
+      "PackagePath": "staticwebassets/assets/images/icon/clock.svg"
+    },
+    {
+      "Id": "/home/ingeniero-james/Documentos/EducacionalMvc/EducacionalMvc/wwwroot/assets/images/icon/counter-1.svg",
+      "PackagePath": "staticwebassets/assets/images/icon/counter-1.svg"
+    },
+    {
+      "Id": "/home/ingeniero-james/Documentos/EducacionalMvc/EducacionalMvc/wwwroot/assets/images/icon/counter-2.svg",
+      "PackagePath": "staticwebassets/assets/images/icon/counter-2.svg"
+    },
+    {
+      "Id": "/home/ingeniero-james/Documentos/EducacionalMvc/EducacionalMvc/wwwroot/assets/images/icon/counter-3.svg",
+      "PackagePath": "staticwebassets/assets/images/icon/counter-3.svg"
+    },
+    {
+      "Id": "/home/ingeniero-james/Documentos/EducacionalMvc/EducacionalMvc/wwwroot/assets/images/icon/counter-4.svg",
+      "PackagePath": "staticwebassets/assets/images/icon/counter-4.svg"
+    },
+    {
+      "Id": "/home/ingeniero-james/Documentos/EducacionalMvc/EducacionalMvc/wwwroot/assets/images/icon/ct1.svg",
+      "PackagePath": "staticwebassets/assets/images/icon/ct1.svg"
+    },
+    {
+      "Id": "/home/ingeniero-james/Documentos/EducacionalMvc/EducacionalMvc/wwwroot/assets/images/icon/ct2.svg",
+      "PackagePath": "staticwebassets/assets/images/icon/ct2.svg"
+    },
+    {
+      "Id": "/home/ingeniero-james/Documentos/EducacionalMvc/EducacionalMvc/wwwroot/assets/images/icon/ct3.svg",
+      "PackagePath": "staticwebassets/assets/images/icon/ct3.svg"
+    },
+    {
+      "Id": "/home/ingeniero-james/Documentos/EducacionalMvc/EducacionalMvc/wwwroot/assets/images/icon/ct4.svg",
+      "PackagePath": "staticwebassets/assets/images/icon/ct4.svg"
+    },
+    {
+      "Id": "/home/ingeniero-james/Documentos/EducacionalMvc/EducacionalMvc/wwwroot/assets/images/icon/ct5.svg",
+      "PackagePath": "staticwebassets/assets/images/icon/ct5.svg"
+    },
+    {
+      "Id": "/home/ingeniero-james/Documentos/EducacionalMvc/EducacionalMvc/wwwroot/assets/images/icon/ct6.svg",
+      "PackagePath": "staticwebassets/assets/images/icon/ct6.svg"
+    },
+    {
+      "Id": "/home/ingeniero-james/Documentos/EducacionalMvc/EducacionalMvc/wwwroot/assets/images/icon/fb.svg",
+      "PackagePath": "staticwebassets/assets/images/icon/fb.svg"
+    },
+    {
+      "Id": "/home/ingeniero-james/Documentos/EducacionalMvc/EducacionalMvc/wwwroot/assets/images/icon/file.svg",
+      "PackagePath": "staticwebassets/assets/images/icon/file.svg"
+    },
+    {
+      "Id": "/home/ingeniero-james/Documentos/EducacionalMvc/EducacionalMvc/wwwroot/assets/images/icon/file2.svg",
+      "PackagePath": "staticwebassets/assets/images/icon/file2.svg"
+    },
+    {
+      "Id": "/home/ingeniero-james/Documentos/EducacionalMvc/EducacionalMvc/wwwroot/assets/images/icon/h.svg",
+      "PackagePath": "staticwebassets/assets/images/icon/h.svg"
+    },
+    {
+      "Id": "/home/ingeniero-james/Documentos/EducacionalMvc/EducacionalMvc/wwwroot/assets/images/icon/headphone.svg",
+      "PackagePath": "staticwebassets/assets/images/icon/headphone.svg"
+    },
+    {
+      "Id": "/home/ingeniero-james/Documentos/EducacionalMvc/EducacionalMvc/wwwroot/assets/images/icon/ins.svg",
+      "PackagePath": "staticwebassets/assets/images/icon/ins.svg"
+    },
+    {
+      "Id": "/home/ingeniero-james/Documentos/EducacionalMvc/EducacionalMvc/wwwroot/assets/images/icon/laptop.svg",
+      "PackagePath": "staticwebassets/assets/images/icon/laptop.svg"
+    },
+    {
+      "Id": "/home/ingeniero-james/Documentos/EducacionalMvc/EducacionalMvc/wwwroot/assets/images/icon/like.svg",
+      "PackagePath": "staticwebassets/assets/images/icon/like.svg"
+    },
+    {
+      "Id": "/home/ingeniero-james/Documentos/EducacionalMvc/EducacionalMvc/wwwroot/assets/images/icon/lock.svg",
+      "PackagePath": "staticwebassets/assets/images/icon/lock.svg"
+    },
+    {
+      "Id": "/home/ingeniero-james/Documentos/EducacionalMvc/EducacionalMvc/wwwroot/assets/images/icon/mail.svg",
+      "PackagePath": "staticwebassets/assets/images/icon/mail.svg"
+    },
+    {
+      "Id": "/home/ingeniero-james/Documentos/EducacionalMvc/EducacionalMvc/wwwroot/assets/images/icon/pencil.svg",
+      "PackagePath": "staticwebassets/assets/images/icon/pencil.svg"
+    },
+    {
+      "Id": "/home/ingeniero-james/Documentos/EducacionalMvc/EducacionalMvc/wwwroot/assets/images/icon/pn.svg",
+      "PackagePath": "staticwebassets/assets/images/icon/pn.svg"
+    },
+    {
+      "Id": "/home/ingeniero-james/Documentos/EducacionalMvc/EducacionalMvc/wwwroot/assets/images/icon/rating-1.svg",
+      "PackagePath": "staticwebassets/assets/images/icon/rating-1.svg"
+    },
+    {
+      "Id": "/home/ingeniero-james/Documentos/EducacionalMvc/EducacionalMvc/wwwroot/assets/images/icon/rating-2.svg",
+      "PackagePath": "staticwebassets/assets/images/icon/rating-2.svg"
+    },
+    {
+      "Id": "/home/ingeniero-james/Documentos/EducacionalMvc/EducacionalMvc/wwwroot/assets/images/icon/rating-3.svg",
+      "PackagePath": "staticwebassets/assets/images/icon/rating-3.svg"
+    },
+    {
+      "Id": "/home/ingeniero-james/Documentos/EducacionalMvc/EducacionalMvc/wwwroot/assets/images/icon/rating-4.svg",
+      "PackagePath": "staticwebassets/assets/images/icon/rating-4.svg"
+    },
+    {
+      "Id": "/home/ingeniero-james/Documentos/EducacionalMvc/EducacionalMvc/wwwroot/assets/images/icon/rating-5.svg",
+      "PackagePath": "staticwebassets/assets/images/icon/rating-5.svg"
+    },
+    {
+      "Id": "/home/ingeniero-james/Documentos/EducacionalMvc/EducacionalMvc/wwwroot/assets/images/icon/search.svg",
+      "PackagePath": "staticwebassets/assets/images/icon/search.svg"
+    },
+    {
+      "Id": "/home/ingeniero-james/Documentos/EducacionalMvc/EducacionalMvc/wwwroot/assets/images/icon/star.svg",
+      "PackagePath": "staticwebassets/assets/images/icon/star.svg"
+    },
+    {
+      "Id": "/home/ingeniero-james/Documentos/EducacionalMvc/EducacionalMvc/wwwroot/assets/images/icon/t1.svg",
+      "PackagePath": "staticwebassets/assets/images/icon/t1.svg"
+    },
+    {
+      "Id": "/home/ingeniero-james/Documentos/EducacionalMvc/EducacionalMvc/wwwroot/assets/images/icon/t2.svg",
+      "PackagePath": "staticwebassets/assets/images/icon/t2.svg"
+    },
+    {
+      "Id": "/home/ingeniero-james/Documentos/EducacionalMvc/EducacionalMvc/wwwroot/assets/images/icon/t3.svg",
+      "PackagePath": "staticwebassets/assets/images/icon/t3.svg"
+    },
+    {
+      "Id": "/home/ingeniero-james/Documentos/EducacionalMvc/EducacionalMvc/wwwroot/assets/images/icon/t4.svg",
+      "PackagePath": "staticwebassets/assets/images/icon/t4.svg"
+    },
+    {
+      "Id": "/home/ingeniero-james/Documentos/EducacionalMvc/EducacionalMvc/wwwroot/assets/images/icon/t5.svg",
+      "PackagePath": "staticwebassets/assets/images/icon/t5.svg"
+    },
+    {
+      "Id": "/home/ingeniero-james/Documentos/EducacionalMvc/EducacionalMvc/wwwroot/assets/images/icon/t6.svg",
+      "PackagePath": "staticwebassets/assets/images/icon/t6.svg"
+    },
+    {
+      "Id": "/home/ingeniero-james/Documentos/EducacionalMvc/EducacionalMvc/wwwroot/assets/images/icon/t7.svg",
+      "PackagePath": "staticwebassets/assets/images/icon/t7.svg"
+    },
+    {
+      "Id": "/home/ingeniero-james/Documentos/EducacionalMvc/EducacionalMvc/wwwroot/assets/images/icon/t8.svg",
+      "PackagePath": "staticwebassets/assets/images/icon/t8.svg"
+    },
+    {
+      "Id": "/home/ingeniero-james/Documentos/EducacionalMvc/EducacionalMvc/wwwroot/assets/images/icon/target.svg",
+      "PackagePath": "staticwebassets/assets/images/icon/target.svg"
+    },
+    {
+      "Id": "/home/ingeniero-james/Documentos/EducacionalMvc/EducacionalMvc/wwwroot/assets/images/icon/tw.svg",
+      "PackagePath": "staticwebassets/assets/images/icon/tw.svg"
+    },
+    {
+      "Id": "/home/ingeniero-james/Documentos/EducacionalMvc/EducacionalMvc/wwwroot/assets/images/icon/user.svg",
+      "PackagePath": "staticwebassets/assets/images/icon/user.svg"
+    },
+    {
+      "Id": "/home/ingeniero-james/Documentos/EducacionalMvc/EducacionalMvc/wwwroot/assets/images/icon/user2.svg",
+      "PackagePath": "staticwebassets/assets/images/icon/user2.svg"
+    },
+    {
+      "Id": "/home/ingeniero-james/Documentos/EducacionalMvc/EducacionalMvc/wwwroot/assets/images/icon/user3.svg",
+      "PackagePath": "staticwebassets/assets/images/icon/user3.svg"
+    },
+    {
+      "Id": "/home/ingeniero-james/Documentos/EducacionalMvc/EducacionalMvc/wwwroot/assets/images/icon/video.svg",
+      "PackagePath": "staticwebassets/assets/images/icon/video.svg"
+    },
+    {
+      "Id": "/home/ingeniero-james/Documentos/EducacionalMvc/EducacionalMvc/wwwroot/assets/images/icon/web-white.svg",
+      "PackagePath": "staticwebassets/assets/images/icon/web-white.svg"
+    },
+    {
+      "Id": "/home/ingeniero-james/Documentos/EducacionalMvc/EducacionalMvc/wwwroot/assets/images/icon/web.svg",
+      "PackagePath": "staticwebassets/assets/images/icon/web.svg"
+    },
+    {
+      "Id": "/home/ingeniero-james/Documentos/EducacionalMvc/EducacionalMvc/wwwroot/assets/images/icon/white-check.svg",
+      "PackagePath": "staticwebassets/assets/images/icon/white-check.svg"
+    },
+    {
+      "Id": "/home/ingeniero-james/Documentos/EducacionalMvc/EducacionalMvc/wwwroot/assets/images/icon/wifi.svg",
+      "PackagePath": "staticwebassets/assets/images/icon/wifi.svg"
+    },
+    {
+      "Id": "/home/ingeniero-james/Documentos/EducacionalMvc/EducacionalMvc/wwwroot/assets/images/shop/1.jpg",
+      "PackagePath": "staticwebassets/assets/images/shop/1.jpg"
+    },
+    {
+      "Id": "/home/ingeniero-james/Documentos/EducacionalMvc/EducacionalMvc/wwwroot/assets/images/shop/1.png",
+      "PackagePath": "staticwebassets/assets/images/shop/1.png"
+    },
+    {
+      "Id": "/home/ingeniero-james/Documentos/EducacionalMvc/EducacionalMvc/wwwroot/assets/images/shop/2.jpg",
+      "PackagePath": "staticwebassets/assets/images/shop/2.jpg"
+    },
+    {
+      "Id": "/home/ingeniero-james/Documentos/EducacionalMvc/EducacionalMvc/wwwroot/assets/images/shop/3.jpg",
+      "PackagePath": "staticwebassets/assets/images/shop/3.jpg"
+    },
+    {
+      "Id": "/home/ingeniero-james/Documentos/EducacionalMvc/EducacionalMvc/wwwroot/assets/images/shop/4.jpg",
+      "PackagePath": "staticwebassets/assets/images/shop/4.jpg"
+    },
+    {
+      "Id": "/home/ingeniero-james/Documentos/EducacionalMvc/EducacionalMvc/wwwroot/assets/images/shop/5.jpg",
+      "PackagePath": "staticwebassets/assets/images/shop/5.jpg"
+    },
+    {
+      "Id": "/home/ingeniero-james/Documentos/EducacionalMvc/EducacionalMvc/wwwroot/assets/images/shop/6.jpg",
+      "PackagePath": "staticwebassets/assets/images/shop/6.jpg"
+    },
+    {
+      "Id": "/home/ingeniero-james/Documentos/EducacionalMvc/EducacionalMvc/wwwroot/assets/images/shop/7.jpg",
+      "PackagePath": "staticwebassets/assets/images/shop/7.jpg"
+    },
+    {
+      "Id": "/home/ingeniero-james/Documentos/EducacionalMvc/EducacionalMvc/wwwroot/assets/images/shop/8.jpg",
+      "PackagePath": "staticwebassets/assets/images/shop/8.jpg"
+    },
+    {
+      "Id": "/home/ingeniero-james/Documentos/EducacionalMvc/EducacionalMvc/wwwroot/assets/images/shop/cart1.jpg",
+      "PackagePath": "staticwebassets/assets/images/shop/cart1.jpg"
+    },
+    {
+      "Id": "/home/ingeniero-james/Documentos/EducacionalMvc/EducacionalMvc/wwwroot/assets/images/shop/cart2.jpg",
+      "PackagePath": "staticwebassets/assets/images/shop/cart2.jpg"
+    },
+    {
+      "Id": "/home/ingeniero-james/Documentos/EducacionalMvc/EducacionalMvc/wwwroot/assets/images/shop/cart3.jpg",
+      "PackagePath": "staticwebassets/assets/images/shop/cart3.jpg"
+    },
+    {
+      "Id": "/home/ingeniero-james/Documentos/EducacionalMvc/EducacionalMvc/wwwroot/assets/images/team/1.jpg",
+      "PackagePath": "staticwebassets/assets/images/team/1.jpg"
+    },
+    {
+      "Id": "/home/ingeniero-james/Documentos/EducacionalMvc/EducacionalMvc/wwwroot/assets/images/team/2.jpg",
+      "PackagePath": "staticwebassets/assets/images/team/2.jpg"
+    },
+    {
+      "Id": "/home/ingeniero-james/Documentos/EducacionalMvc/EducacionalMvc/wwwroot/assets/images/team/3.jpg",
+      "PackagePath": "staticwebassets/assets/images/team/3.jpg"
+    },
+    {
+      "Id": "/home/ingeniero-james/Documentos/EducacionalMvc/EducacionalMvc/wwwroot/assets/images/team/4.jpg",
+      "PackagePath": "staticwebassets/assets/images/team/4.jpg"
+    },
+    {
+      "Id": "/home/ingeniero-james/Documentos/EducacionalMvc/EducacionalMvc/wwwroot/assets/js/ScrollSmoother.min.js",
+      "PackagePath": "staticwebassets/assets/js/ScrollSmoother.min.js"
+    },
+    {
+      "Id": "/home/ingeniero-james/Documentos/EducacionalMvc/EducacionalMvc/wwwroot/assets/js/ScrollTrigger.min.js",
+      "PackagePath": "staticwebassets/assets/js/ScrollTrigger.min.js"
+    },
+    {
+      "Id": "/home/ingeniero-james/Documentos/EducacionalMvc/EducacionalMvc/wwwroot/assets/js/gsap.min.js",
+      "PackagePath": "staticwebassets/assets/js/gsap.min.js"
+    },
+    {
+      "Id": "/home/ingeniero-james/Documentos/EducacionalMvc/EducacionalMvc/wwwroot/assets/js/jquery-1.12.4.min.js",
+      "PackagePath": "staticwebassets/assets/js/jquery-1.12.4.min.js"
+    },
+    {
+      "Id": "/home/ingeniero-james/Documentos/EducacionalMvc/EducacionalMvc/wwwroot/assets/js/jquery-simple-mobilemenu.js",
+      "PackagePath": "staticwebassets/assets/js/jquery-simple-mobilemenu.js"
+    },
+    {
+      "Id": "/home/ingeniero-james/Documentos/EducacionalMvc/EducacionalMvc/wwwroot/assets/js/jquery.inview.min.js",
+      "PackagePath": "staticwebassets/assets/js/jquery.inview.min.js"
+    },
+    {
+      "Id": "/home/ingeniero-james/Documentos/EducacionalMvc/EducacionalMvc/wwwroot/assets/js/jquery.magnific-popup.min.js",
+      "PackagePath": "staticwebassets/assets/js/jquery.magnific-popup.min.js"
+    },
+    {
+      "Id": "/home/ingeniero-james/Documentos/EducacionalMvc/EducacionalMvc/wwwroot/assets/js/jquery.mixitup.js",
+      "PackagePath": "staticwebassets/assets/js/jquery.mixitup.js"
+    },
+    {
+      "Id": "/home/ingeniero-james/Documentos/EducacionalMvc/EducacionalMvc/wwwroot/assets/js/jquery.nav.js",
+      "PackagePath": "staticwebassets/assets/js/jquery.nav.js"
+    },
+    {
+      "Id": "/home/ingeniero-james/Documentos/EducacionalMvc/EducacionalMvc/wwwroot/assets/js/jquery.slicknav.js",
+      "PackagePath": "staticwebassets/assets/js/jquery.slicknav.js"
+    },
+    {
+      "Id": "/home/ingeniero-james/Documentos/EducacionalMvc/EducacionalMvc/wwwroot/assets/js/lenis.js",
+      "PackagePath": "staticwebassets/assets/js/lenis.js"
+    },
+    {
+      "Id": "/home/ingeniero-james/Documentos/EducacionalMvc/EducacionalMvc/wwwroot/assets/js/nicesellect.js",
+      "PackagePath": "staticwebassets/assets/js/nicesellect.js"
+    },
+    {
+      "Id": "/home/ingeniero-james/Documentos/EducacionalMvc/EducacionalMvc/wwwroot/assets/js/scripts.js",
+      "PackagePath": "staticwebassets/assets/js/scripts.js"
+    },
+    {
+      "Id": "/home/ingeniero-james/Documentos/EducacionalMvc/EducacionalMvc/wwwroot/assets/js/scrolltopcontrol.js",
+      "PackagePath": "staticwebassets/assets/js/scrolltopcontrol.js"
+    },
+    {
+      "Id": "/home/ingeniero-james/Documentos/EducacionalMvc/EducacionalMvc/wwwroot/assets/js/smoother-script.js",
+      "PackagePath": "staticwebassets/assets/js/smoother-script.js"
+    },
+    {
+      "Id": "/home/ingeniero-james/Documentos/EducacionalMvc/EducacionalMvc/wwwroot/assets/js/wow.min.js",
+      "PackagePath": "staticwebassets/assets/js/wow.min.js"
+    },
+    {
+      "Id": "/home/ingeniero-james/Documentos/EducacionalMvc/EducacionalMvc/wwwroot/assets/owlcarousel/css/owl.carousel.css",
+      "PackagePath": "staticwebassets/assets/owlcarousel/css/owl.carousel.css"
+    },
+    {
+      "Id": "/home/ingeniero-james/Documentos/EducacionalMvc/EducacionalMvc/wwwroot/assets/owlcarousel/css/owl.theme.css",
+      "PackagePath": "staticwebassets/assets/owlcarousel/css/owl.theme.css"
+    },
+    {
+      "Id": "/home/ingeniero-james/Documentos/EducacionalMvc/EducacionalMvc/wwwroot/assets/owlcarousel/css/owl.transitions.css",
+      "PackagePath": "staticwebassets/assets/owlcarousel/css/owl.transitions.css"
+    },
+    {
+      "Id": "/home/ingeniero-james/Documentos/EducacionalMvc/EducacionalMvc/wwwroot/assets/owlcarousel/js/owl.carousel.js",
+      "PackagePath": "staticwebassets/assets/owlcarousel/js/owl.carousel.js"
+    },
+    {
+      "Id": "/home/ingeniero-james/Documentos/EducacionalMvc/EducacionalMvc/wwwroot/assets/owlcarousel/js/owl.carousel.min.js",
+      "PackagePath": "staticwebassets/assets/owlcarousel/js/owl.carousel.min.js"
+    },
+    {
+      "Id": "/home/ingeniero-james/Documentos/EducacionalMvc/EducacionalMvc/wwwroot/assets/webfonts/fa-brands-400.ttf",
+      "PackagePath": "staticwebassets/assets/webfonts/fa-brands-400.ttf"
+    },
+    {
+      "Id": "/home/ingeniero-james/Documentos/EducacionalMvc/EducacionalMvc/wwwroot/assets/webfonts/fa-brands-400.woff2",
+      "PackagePath": "staticwebassets/assets/webfonts/fa-brands-400.woff2"
+    },
+    {
+      "Id": "/home/ingeniero-james/Documentos/EducacionalMvc/EducacionalMvc/wwwroot/assets/webfonts/fa-duotone-900.ttf",
+      "PackagePath": "staticwebassets/assets/webfonts/fa-duotone-900.ttf"
+    },
+    {
+      "Id": "/home/ingeniero-james/Documentos/EducacionalMvc/EducacionalMvc/wwwroot/assets/webfonts/fa-duotone-900.woff2",
+      "PackagePath": "staticwebassets/assets/webfonts/fa-duotone-900.woff2"
+    },
+    {
+      "Id": "/home/ingeniero-james/Documentos/EducacionalMvc/EducacionalMvc/wwwroot/assets/webfonts/fa-light-300.ttf",
+      "PackagePath": "staticwebassets/assets/webfonts/fa-light-300.ttf"
+    },
+    {
+      "Id": "/home/ingeniero-james/Documentos/EducacionalMvc/EducacionalMvc/wwwroot/assets/webfonts/fa-light-300.woff2",
+      "PackagePath": "staticwebassets/assets/webfonts/fa-light-300.woff2"
+    },
+    {
+      "Id": "/home/ingeniero-james/Documentos/EducacionalMvc/EducacionalMvc/wwwroot/assets/webfonts/fa-regular-400.ttf",
+      "PackagePath": "staticwebassets/assets/webfonts/fa-regular-400.ttf"
+    },
+    {
+      "Id": "/home/ingeniero-james/Documentos/EducacionalMvc/EducacionalMvc/wwwroot/assets/webfonts/fa-regular-400.woff2",
+      "PackagePath": "staticwebassets/assets/webfonts/fa-regular-400.woff2"
+    },
+    {
+      "Id": "/home/ingeniero-james/Documentos/EducacionalMvc/EducacionalMvc/wwwroot/assets/webfonts/fa-solid-900.ttf",
+      "PackagePath": "staticwebassets/assets/webfonts/fa-solid-900.ttf"
+    },
+    {
+      "Id": "/home/ingeniero-james/Documentos/EducacionalMvc/EducacionalMvc/wwwroot/assets/webfonts/fa-solid-900.woff2",
+      "PackagePath": "staticwebassets/assets/webfonts/fa-solid-900.woff2"
+    },
+    {
+      "Id": "/home/ingeniero-james/Documentos/EducacionalMvc/EducacionalMvc/wwwroot/assets/webfonts/fa-thin-100.ttf",
+      "PackagePath": "staticwebassets/assets/webfonts/fa-thin-100.ttf"
+    },
+    {
+      "Id": "/home/ingeniero-james/Documentos/EducacionalMvc/EducacionalMvc/wwwroot/assets/webfonts/fa-thin-100.woff2",
+      "PackagePath": "staticwebassets/assets/webfonts/fa-thin-100.woff2"
+    },
+    {
+      "Id": "/home/ingeniero-james/Documentos/EducacionalMvc/EducacionalMvc/wwwroot/assets/webfonts/fa-v4compatibility.ttf",
+      "PackagePath": "staticwebassets/assets/webfonts/fa-v4compatibility.ttf"
+    },
+    {
+      "Id": "/home/ingeniero-james/Documentos/EducacionalMvc/EducacionalMvc/wwwroot/assets/webfonts/fa-v4compatibility.woff2",
+      "PackagePath": "staticwebassets/assets/webfonts/fa-v4compatibility.woff2"
+    },
+    {
+      "Id": "/home/ingeniero-james/Documentos/EducacionalMvc/EducacionalMvc/wwwroot/assets/webfonts/themify-icons.css",
+      "PackagePath": "staticwebassets/assets/webfonts/themify-icons.css"
+    },
+    {
+      "Id": "/home/ingeniero-james/Documentos/EducacionalMvc/EducacionalMvc/wwwroot/assets/webfonts/themify.eot",
+      "PackagePath": "staticwebassets/assets/webfonts/themify.eot"
+    },
+    {
+      "Id": "/home/ingeniero-james/Documentos/EducacionalMvc/EducacionalMvc/wwwroot/assets/webfonts/themify.svg",
+      "PackagePath": "staticwebassets/assets/webfonts/themify.svg"
+    },
+    {
+      "Id": "/home/ingeniero-james/Documentos/EducacionalMvc/EducacionalMvc/wwwroot/assets/webfonts/themify.ttf",
+      "PackagePath": "staticwebassets/assets/webfonts/themify.ttf"
+    },
+    {
+      "Id": "/home/ingeniero-james/Documentos/EducacionalMvc/EducacionalMvc/wwwroot/assets/webfonts/themify.woff",
+      "PackagePath": "staticwebassets/assets/webfonts/themify.woff"
+    },
+    {
+      "Id": "/home/ingeniero-james/Documentos/EducacionalMvc/EducacionalMvc/wwwroot/assets/woocommerce/woocommerce-layouts.css",
+      "PackagePath": "staticwebassets/assets/woocommerce/woocommerce-layouts.css"
+    },
+    {
+      "Id": "/home/ingeniero-james/Documentos/EducacionalMvc/EducacionalMvc/wwwroot/assets/woocommerce/woocommerce-small-screen.css",
+      "PackagePath": "staticwebassets/assets/woocommerce/woocommerce-small-screen.css"
+    },
+    {
+      "Id": "/home/ingeniero-james/Documentos/EducacionalMvc/EducacionalMvc/wwwroot/assets/woocommerce/woocommerce.css",
+      "PackagePath": "staticwebassets/assets/woocommerce/woocommerce.css"
+    },
+    {
+      "Id": "/home/ingeniero-james/Documentos/EducacionalMvc/EducacionalMvc/wwwroot/css/all.min.css",
+      "PackagePath": "staticwebassets/css/all.min.css"
+    },
+    {
+      "Id": "/home/ingeniero-james/Documentos/EducacionalMvc/EducacionalMvc/wwwroot/css/animate.css",
+      "PackagePath": "staticwebassets/css/animate.css"
+    },
+    {
+      "Id": "/home/ingeniero-james/Documentos/EducacionalMvc/EducacionalMvc/wwwroot/css/animate.min.css",
+      "PackagePath": "staticwebassets/css/animate.min.css"
+    },
+    {
+      "Id": "/home/ingeniero-james/Documentos/EducacionalMvc/EducacionalMvc/wwwroot/css/close.gif",
+      "PackagePath": "staticwebassets/css/close.gif"
+    },
+    {
+      "Id": "/home/ingeniero-james/Documentos/EducacionalMvc/EducacionalMvc/wwwroot/css/fontawesome.min.css",
+      "PackagePath": "staticwebassets/css/fontawesome.min.css"
+    },
+    {
+      "Id": "/home/ingeniero-james/Documentos/EducacionalMvc/EducacionalMvc/wwwroot/css/jquery-simple-mobilemenu.css",
+      "PackagePath": "staticwebassets/css/jquery-simple-mobilemenu.css"
+    },
+    {
+      "Id": "/home/ingeniero-james/Documentos/EducacionalMvc/EducacionalMvc/wwwroot/css/magnific-popup.css",
+      "PackagePath": "staticwebassets/css/magnific-popup.css"
+    },
+    {
+      "Id": "/home/ingeniero-james/Documentos/EducacionalMvc/EducacionalMvc/wwwroot/css/next.gif",
+      "PackagePath": "staticwebassets/css/next.gif"
+    },
+    {
+      "Id": "/home/ingeniero-james/Documentos/EducacionalMvc/EducacionalMvc/wwwroot/css/niceselect.css",
+      "PackagePath": "staticwebassets/css/niceselect.css"
+    },
+    {
+      "Id": "/home/ingeniero-james/Documentos/EducacionalMvc/EducacionalMvc/wwwroot/css/preload-circle.png",
+      "PackagePath": "staticwebassets/css/preload-circle.png"
+    },
+    {
+      "Id": "/home/ingeniero-james/Documentos/EducacionalMvc/EducacionalMvc/wwwroot/css/prev.gif",
+      "PackagePath": "staticwebassets/css/prev.gif"
+    },
+    {
+      "Id": "/home/ingeniero-james/Documentos/EducacionalMvc/EducacionalMvc/wwwroot/css/shop.css",
+      "PackagePath": "staticwebassets/css/shop.css"
+    },
+    {
+      "Id": "/home/ingeniero-james/Documentos/EducacionalMvc/EducacionalMvc/wwwroot/css/site.css",
+      "PackagePath": "staticwebassets/css/site.css"
+    },
+    {
+      "Id": "/home/ingeniero-james/Documentos/EducacionalMvc/EducacionalMvc/wwwroot/css/style.css",
+      "PackagePath": "staticwebassets/css/style.css"
+    },
+    {
+      "Id": "/home/ingeniero-james/Documentos/EducacionalMvc/EducacionalMvc/wwwroot/favicon.ico",
+      "PackagePath": "staticwebassets/favicon.ico"
+    },
+    {
+      "Id": "/home/ingeniero-james/Documentos/EducacionalMvc/EducacionalMvc/wwwroot/images/all-img/404.svg",
+      "PackagePath": "staticwebassets/images/all-img/404.svg"
+    },
+    {
+      "Id": "/home/ingeniero-james/Documentos/EducacionalMvc/EducacionalMvc/wwwroot/images/all-img/about-image.jpg",
+      "PackagePath": "staticwebassets/images/all-img/about-image.jpg"
+    },
+    {
+      "Id": "/home/ingeniero-james/Documentos/EducacionalMvc/EducacionalMvc/wwwroot/images/all-img/about1.jpg",
+      "PackagePath": "staticwebassets/images/all-img/about1.jpg"
+    },
+    {
+      "Id": "/home/ingeniero-james/Documentos/EducacionalMvc/EducacionalMvc/wwwroot/images/all-img/about1.png",
+      "PackagePath": "staticwebassets/images/all-img/about1.png"
+    },
+    {
+      "Id": "/home/ingeniero-james/Documentos/EducacionalMvc/EducacionalMvc/wwwroot/images/all-img/about2.png",
+      "PackagePath": "staticwebassets/images/all-img/about2.png"
+    },
+    {
+      "Id": "/home/ingeniero-james/Documentos/EducacionalMvc/EducacionalMvc/wwwroot/images/all-img/about3.png",
+      "PackagePath": "staticwebassets/images/all-img/about3.png"
+    },
+    {
+      "Id": "/home/ingeniero-james/Documentos/EducacionalMvc/EducacionalMvc/wwwroot/images/all-img/app-store.jpg",
+      "PackagePath": "staticwebassets/images/all-img/app-store.jpg"
+    },
+    {
+      "Id": "/home/ingeniero-james/Documentos/EducacionalMvc/EducacionalMvc/wwwroot/images/all-img/avator.png",
+      "PackagePath": "staticwebassets/images/all-img/avator.png"
+    },
+    {
+      "Id": "/home/ingeniero-james/Documentos/EducacionalMvc/EducacionalMvc/wwwroot/images/all-img/back.png",
+      "PackagePath": "staticwebassets/images/all-img/back.png"
+    },
+    {
+      "Id": "/home/ingeniero-james/Documentos/EducacionalMvc/EducacionalMvc/wwwroot/images/all-img/become-ins.png",
+      "PackagePath": "staticwebassets/images/all-img/become-ins.png"
+    },
+    {
+      "Id": "/home/ingeniero-james/Documentos/EducacionalMvc/EducacionalMvc/wwwroot/images/all-img/book.svg",
+      "PackagePath": "staticwebassets/images/all-img/book.svg"
+    },
+    {
+      "Id": "/home/ingeniero-james/Documentos/EducacionalMvc/EducacionalMvc/wwwroot/images/all-img/client02.png",
+      "PackagePath": "staticwebassets/images/all-img/client02.png"
+    },
+    {
+      "Id": "/home/ingeniero-james/Documentos/EducacionalMvc/EducacionalMvc/wwwroot/images/all-img/client03.png",
+      "PackagePath": "staticwebassets/images/all-img/client03.png"
+    },
+    {
+      "Id": "/home/ingeniero-james/Documentos/EducacionalMvc/EducacionalMvc/wwwroot/images/all-img/client04.png",
+      "PackagePath": "staticwebassets/images/all-img/client04.png"
+    },
+    {
+      "Id": "/home/ingeniero-james/Documentos/EducacionalMvc/EducacionalMvc/wwwroot/images/all-img/clients/1.png",
+      "PackagePath": "staticwebassets/images/all-img/clients/1.png"
+    },
+    {
+      "Id": "/home/ingeniero-james/Documentos/EducacionalMvc/EducacionalMvc/wwwroot/images/all-img/clients/2.png",
+      "PackagePath": "staticwebassets/images/all-img/clients/2.png"
+    },
+    {
+      "Id": "/home/ingeniero-james/Documentos/EducacionalMvc/EducacionalMvc/wwwroot/images/all-img/clients/3.png",
+      "PackagePath": "staticwebassets/images/all-img/clients/3.png"
+    },
+    {
+      "Id": "/home/ingeniero-james/Documentos/EducacionalMvc/EducacionalMvc/wwwroot/images/all-img/clients/4.png",
+      "PackagePath": "staticwebassets/images/all-img/clients/4.png"
+    },
+    {
+      "Id": "/home/ingeniero-james/Documentos/EducacionalMvc/EducacionalMvc/wwwroot/images/all-img/clients/5.png",
+      "PackagePath": "staticwebassets/images/all-img/clients/5.png"
+    },
+    {
+      "Id": "/home/ingeniero-james/Documentos/EducacionalMvc/EducacionalMvc/wwwroot/images/all-img/clients/b1.svg",
+      "PackagePath": "staticwebassets/images/all-img/clients/b1.svg"
+    },
+    {
+      "Id": "/home/ingeniero-james/Documentos/EducacionalMvc/EducacionalMvc/wwwroot/images/all-img/clients/b2.svg",
+      "PackagePath": "staticwebassets/images/all-img/clients/b2.svg"
+    },
+    {
+      "Id": "/home/ingeniero-james/Documentos/EducacionalMvc/EducacionalMvc/wwwroot/images/all-img/clients/b3.svg",
+      "PackagePath": "staticwebassets/images/all-img/clients/b3.svg"
+    },
+    {
+      "Id": "/home/ingeniero-james/Documentos/EducacionalMvc/EducacionalMvc/wwwroot/images/all-img/clients/b4.svg",
+      "PackagePath": "staticwebassets/images/all-img/clients/b4.svg"
+    },
+    {
+      "Id": "/home/ingeniero-james/Documentos/EducacionalMvc/EducacionalMvc/wwwroot/images/all-img/clients/b5.svg",
+      "PackagePath": "staticwebassets/images/all-img/clients/b5.svg"
+    },
+    {
+      "Id": "/home/ingeniero-james/Documentos/EducacionalMvc/EducacionalMvc/wwwroot/images/all-img/cmnt-1.png",
+      "PackagePath": "staticwebassets/images/all-img/cmnt-1.png"
+    },
+    {
+      "Id": "/home/ingeniero-james/Documentos/EducacionalMvc/EducacionalMvc/wwwroot/images/all-img/faq.png",
+      "PackagePath": "staticwebassets/images/all-img/faq.png"
+    },
+    {
+      "Id": "/home/ingeniero-james/Documentos/EducacionalMvc/EducacionalMvc/wwwroot/images/all-img/free-course.png",
+      "PackagePath": "staticwebassets/images/all-img/free-course.png"
+    },
+    {
+      "Id": "/home/ingeniero-james/Documentos/EducacionalMvc/EducacionalMvc/wwwroot/images/all-img/google-play.jpg",
+      "PackagePath": "staticwebassets/images/all-img/google-play.jpg"
+    },
+    {
+      "Id": "/home/ingeniero-james/Documentos/EducacionalMvc/EducacionalMvc/wwwroot/images/all-img/home-image.png",
+      "PackagePath": "staticwebassets/images/all-img/home-image.png"
+    },
+    {
+      "Id": "/home/ingeniero-james/Documentos/EducacionalMvc/EducacionalMvc/wwwroot/images/all-img/home-img1.png",
+      "PackagePath": "staticwebassets/images/all-img/home-img1.png"
+    },
+    {
+      "Id": "/home/ingeniero-james/Documentos/EducacionalMvc/EducacionalMvc/wwwroot/images/all-img/ins-details.png",
+      "PackagePath": "staticwebassets/images/all-img/ins-details.png"
+    },
+    {
+      "Id": "/home/ingeniero-james/Documentos/EducacionalMvc/EducacionalMvc/wwwroot/images/all-img/instractor1.jpg",
+      "PackagePath": "staticwebassets/images/all-img/instractor1.jpg"
+    },
+    {
+      "Id": "/home/ingeniero-james/Documentos/EducacionalMvc/EducacionalMvc/wwwroot/images/all-img/instractor2.jpg",
+      "PackagePath": "staticwebassets/images/all-img/instractor2.jpg"
+    },
+    {
+      "Id": "/home/ingeniero-james/Documentos/EducacionalMvc/EducacionalMvc/wwwroot/images/all-img/light.svg",
+      "PackagePath": "staticwebassets/images/all-img/light.svg"
+    },
+    {
+      "Id": "/home/ingeniero-james/Documentos/EducacionalMvc/EducacionalMvc/wwwroot/images/all-img/logo.png",
+      "PackagePath": "staticwebassets/images/all-img/logo.png"
+    },
+    {
+      "Id": "/home/ingeniero-james/Documentos/EducacionalMvc/EducacionalMvc/wwwroot/images/all-img/next.png",
+      "PackagePath": "staticwebassets/images/all-img/next.png"
+    },
+    {
+      "Id": "/home/ingeniero-james/Documentos/EducacionalMvc/EducacionalMvc/wwwroot/images/all-img/rc-1.png",
+      "PackagePath": "staticwebassets/images/all-img/rc-1.png"
+    },
+    {
+      "Id": "/home/ingeniero-james/Documentos/EducacionalMvc/EducacionalMvc/wwwroot/images/all-img/rc-2.png",
+      "PackagePath": "staticwebassets/images/all-img/rc-2.png"
+    },
+    {
+      "Id": "/home/ingeniero-james/Documentos/EducacionalMvc/EducacionalMvc/wwwroot/images/all-img/rc-3.png",
+      "PackagePath": "staticwebassets/images/all-img/rc-3.png"
+    },
+    {
+      "Id": "/home/ingeniero-james/Documentos/EducacionalMvc/EducacionalMvc/wwwroot/images/all-img/star.svg",
+      "PackagePath": "staticwebassets/images/all-img/star.svg"
+    },
+    {
+      "Id": "/home/ingeniero-james/Documentos/EducacionalMvc/EducacionalMvc/wwwroot/images/all-img/t1.png",
+      "PackagePath": "staticwebassets/images/all-img/t1.png"
+    },
+    {
+      "Id": "/home/ingeniero-james/Documentos/EducacionalMvc/EducacionalMvc/wwwroot/images/all-img/t2.png",
+      "PackagePath": "staticwebassets/images/all-img/t2.png"
+    },
+    {
+      "Id": "/home/ingeniero-james/Documentos/EducacionalMvc/EducacionalMvc/wwwroot/images/all-img/t3.png",
+      "PackagePath": "staticwebassets/images/all-img/t3.png"
+    },
+    {
+      "Id": "/home/ingeniero-james/Documentos/EducacionalMvc/EducacionalMvc/wwwroot/images/all-img/target.svg",
+      "PackagePath": "staticwebassets/images/all-img/target.svg"
+    },
+    {
+      "Id": "/home/ingeniero-james/Documentos/EducacionalMvc/EducacionalMvc/wwwroot/images/banner/bg-scaled.jpg",
+      "PackagePath": "staticwebassets/images/banner/bg-scaled.jpg"
+    },
+    {
+      "Id": "/home/ingeniero-james/Documentos/EducacionalMvc/EducacionalMvc/wwwroot/images/banner/home-bg.jpg",
+      "PackagePath": "staticwebassets/images/banner/home-bg.jpg"
+    },
+    {
+      "Id": "/home/ingeniero-james/Documentos/EducacionalMvc/EducacionalMvc/wwwroot/images/banner/video.jpg",
+      "PackagePath": "staticwebassets/images/banner/video.jpg"
+    },
+    {
+      "Id": "/home/ingeniero-james/Documentos/EducacionalMvc/EducacionalMvc/wwwroot/images/blog/1.jpg",
+      "PackagePath": "staticwebassets/images/blog/1.jpg"
+    },
+    {
+      "Id": "/home/ingeniero-james/Documentos/EducacionalMvc/EducacionalMvc/wwwroot/images/blog/2.jpg",
+      "PackagePath": "staticwebassets/images/blog/2.jpg"
+    },
+    {
+      "Id": "/home/ingeniero-james/Documentos/EducacionalMvc/EducacionalMvc/wwwroot/images/blog/3.jpg",
+      "PackagePath": "staticwebassets/images/blog/3.jpg"
+    },
+    {
+      "Id": "/home/ingeniero-james/Documentos/EducacionalMvc/EducacionalMvc/wwwroot/images/blog/author.jpg",
+      "PackagePath": "staticwebassets/images/blog/author.jpg"
+    },
+    {
+      "Id": "/home/ingeniero-james/Documentos/EducacionalMvc/EducacionalMvc/wwwroot/images/blog/banner.jpg",
+      "PackagePath": "staticwebassets/images/blog/banner.jpg"
+    },
+    {
+      "Id": "/home/ingeniero-james/Documentos/EducacionalMvc/EducacionalMvc/wwwroot/images/blog/blog-1.png",
+      "PackagePath": "staticwebassets/images/blog/blog-1.png"
+    },
+    {
+      "Id": "/home/ingeniero-james/Documentos/EducacionalMvc/EducacionalMvc/wwwroot/images/blog/blog-2.png",
+      "PackagePath": "staticwebassets/images/blog/blog-2.png"
+    },
+    {
+      "Id": "/home/ingeniero-james/Documentos/EducacionalMvc/EducacionalMvc/wwwroot/images/blog/blog-3.png",
+      "PackagePath": "staticwebassets/images/blog/blog-3.png"
+    },
+    {
+      "Id": "/home/ingeniero-james/Documentos/EducacionalMvc/EducacionalMvc/wwwroot/images/blog/blog-4.png",
+      "PackagePath": "staticwebassets/images/blog/blog-4.png"
+    },
+    {
+      "Id": "/home/ingeniero-james/Documentos/EducacionalMvc/EducacionalMvc/wwwroot/images/blog/blog-5.png",
+      "PackagePath": "staticwebassets/images/blog/blog-5.png"
+    },
+    {
+      "Id": "/home/ingeniero-james/Documentos/EducacionalMvc/EducacionalMvc/wwwroot/images/blog/c1.jpg",
+      "PackagePath": "staticwebassets/images/blog/c1.jpg"
+    },
+    {
+      "Id": "/home/ingeniero-james/Documentos/EducacionalMvc/EducacionalMvc/wwwroot/images/blog/c2.jpg",
+      "PackagePath": "staticwebassets/images/blog/c2.jpg"
+    },
+    {
+      "Id": "/home/ingeniero-james/Documentos/EducacionalMvc/EducacionalMvc/wwwroot/images/blog/c3.jpg",
+      "PackagePath": "staticwebassets/images/blog/c3.jpg"
+    },
+    {
+      "Id": "/home/ingeniero-james/Documentos/EducacionalMvc/EducacionalMvc/wwwroot/images/category/cat1.jpg",
+      "PackagePath": "staticwebassets/images/category/cat1.jpg"
+    },
+    {
+      "Id": "/home/ingeniero-james/Documentos/EducacionalMvc/EducacionalMvc/wwwroot/images/category/cat2.jpg",
+      "PackagePath": "staticwebassets/images/category/cat2.jpg"
+    },
+    {
+      "Id": "/home/ingeniero-james/Documentos/EducacionalMvc/EducacionalMvc/wwwroot/images/category/cat3.jpg",
+      "PackagePath": "staticwebassets/images/category/cat3.jpg"
+    },
+    {
+      "Id": "/home/ingeniero-james/Documentos/EducacionalMvc/EducacionalMvc/wwwroot/images/category/cat4.jpg",
+      "PackagePath": "staticwebassets/images/category/cat4.jpg"
+    },
+    {
+      "Id": "/home/ingeniero-james/Documentos/EducacionalMvc/EducacionalMvc/wwwroot/images/category/cat5.jpg",
+      "PackagePath": "staticwebassets/images/category/cat5.jpg"
+    },
+    {
+      "Id": "/home/ingeniero-james/Documentos/EducacionalMvc/EducacionalMvc/wwwroot/images/category/cat6.jpg",
+      "PackagePath": "staticwebassets/images/category/cat6.jpg"
+    },
+    {
+      "Id": "/home/ingeniero-james/Documentos/EducacionalMvc/EducacionalMvc/wwwroot/images/category/cat7.jpg",
+      "PackagePath": "staticwebassets/images/category/cat7.jpg"
+    },
+    {
+      "Id": "/home/ingeniero-james/Documentos/EducacionalMvc/EducacionalMvc/wwwroot/images/category/cat8.jpg",
+      "PackagePath": "staticwebassets/images/category/cat8.jpg"
+    },
+    {
+      "Id": "/home/ingeniero-james/Documentos/EducacionalMvc/EducacionalMvc/wwwroot/images/clients/1.png",
+      "PackagePath": "staticwebassets/images/clients/1.png"
+    },
+    {
+      "Id": "/home/ingeniero-james/Documentos/EducacionalMvc/EducacionalMvc/wwwroot/images/clients/2.png",
+      "PackagePath": "staticwebassets/images/clients/2.png"
+    },
+    {
+      "Id": "/home/ingeniero-james/Documentos/EducacionalMvc/EducacionalMvc/wwwroot/images/clients/3.png",
+      "PackagePath": "staticwebassets/images/clients/3.png"
+    },
+    {
+      "Id": "/home/ingeniero-james/Documentos/EducacionalMvc/EducacionalMvc/wwwroot/images/clients/4.png",
+      "PackagePath": "staticwebassets/images/clients/4.png"
+    },
+    {
+      "Id": "/home/ingeniero-james/Documentos/EducacionalMvc/EducacionalMvc/wwwroot/images/clients/5.png",
+      "PackagePath": "staticwebassets/images/clients/5.png"
+    },
+    {
+      "Id": "/home/ingeniero-james/Documentos/EducacionalMvc/EducacionalMvc/wwwroot/images/clients/6.png",
+      "PackagePath": "staticwebassets/images/clients/6.png"
+    },
+    {
+      "Id": "/home/ingeniero-james/Documentos/EducacionalMvc/EducacionalMvc/wwwroot/images/course/1.jpg",
+      "PackagePath": "staticwebassets/images/course/1.jpg"
+    },
+    {
+      "Id": "/home/ingeniero-james/Documentos/EducacionalMvc/EducacionalMvc/wwwroot/images/course/2.jpg",
+      "PackagePath": "staticwebassets/images/course/2.jpg"
+    },
+    {
+      "Id": "/home/ingeniero-james/Documentos/EducacionalMvc/EducacionalMvc/wwwroot/images/course/3.jpg",
+      "PackagePath": "staticwebassets/images/course/3.jpg"
+    },
+    {
+      "Id": "/home/ingeniero-james/Documentos/EducacionalMvc/EducacionalMvc/wwwroot/images/course/4.jpg",
+      "PackagePath": "staticwebassets/images/course/4.jpg"
+    },
+    {
+      "Id": "/home/ingeniero-james/Documentos/EducacionalMvc/EducacionalMvc/wwwroot/images/course/5.jpg",
+      "PackagePath": "staticwebassets/images/course/5.jpg"
+    },
+    {
+      "Id": "/home/ingeniero-james/Documentos/EducacionalMvc/EducacionalMvc/wwwroot/images/course/6.jpg",
+      "PackagePath": "staticwebassets/images/course/6.jpg"
+    },
+    {
+      "Id": "/home/ingeniero-james/Documentos/EducacionalMvc/EducacionalMvc/wwwroot/images/course/c1.png",
+      "PackagePath": "staticwebassets/images/course/c1.png"
+    },
+    {
+      "Id": "/home/ingeniero-james/Documentos/EducacionalMvc/EducacionalMvc/wwwroot/images/course/c10.png",
+      "PackagePath": "staticwebassets/images/course/c10.png"
+    },
+    {
+      "Id": "/home/ingeniero-james/Documentos/EducacionalMvc/EducacionalMvc/wwwroot/images/course/c11.png",
+      "PackagePath": "staticwebassets/images/course/c11.png"
+    },
+    {
+      "Id": "/home/ingeniero-james/Documentos/EducacionalMvc/EducacionalMvc/wwwroot/images/course/c12.png",
+      "PackagePath": "staticwebassets/images/course/c12.png"
+    },
+    {
+      "Id": "/home/ingeniero-james/Documentos/EducacionalMvc/EducacionalMvc/wwwroot/images/course/c2.png",
+      "PackagePath": "staticwebassets/images/course/c2.png"
+    },
+    {
+      "Id": "/home/ingeniero-james/Documentos/EducacionalMvc/EducacionalMvc/wwwroot/images/course/c3.png",
+      "PackagePath": "staticwebassets/images/course/c3.png"
+    },
+    {
+      "Id": "/home/ingeniero-james/Documentos/EducacionalMvc/EducacionalMvc/wwwroot/images/course/c4.png",
+      "PackagePath": "staticwebassets/images/course/c4.png"
+    },
+    {
+      "Id": "/home/ingeniero-james/Documentos/EducacionalMvc/EducacionalMvc/wwwroot/images/course/c7.png",
+      "PackagePath": "staticwebassets/images/course/c7.png"
+    },
+    {
+      "Id": "/home/ingeniero-james/Documentos/EducacionalMvc/EducacionalMvc/wwwroot/images/course/c8.png",
+      "PackagePath": "staticwebassets/images/course/c8.png"
+    },
+    {
+      "Id": "/home/ingeniero-james/Documentos/EducacionalMvc/EducacionalMvc/wwwroot/images/course/c9.png",
+      "PackagePath": "staticwebassets/images/course/c9.png"
+    },
+    {
+      "Id": "/home/ingeniero-james/Documentos/EducacionalMvc/EducacionalMvc/wwwroot/images/event/e1.png",
+      "PackagePath": "staticwebassets/images/event/e1.png"
+    },
+    {
+      "Id": "/home/ingeniero-james/Documentos/EducacionalMvc/EducacionalMvc/wwwroot/images/event/e11.png",
+      "PackagePath": "staticwebassets/images/event/e11.png"
+    },
+    {
+      "Id": "/home/ingeniero-james/Documentos/EducacionalMvc/EducacionalMvc/wwwroot/images/event/e2.png",
+      "PackagePath": "staticwebassets/images/event/e2.png"
+    },
+    {
+      "Id": "/home/ingeniero-james/Documentos/EducacionalMvc/EducacionalMvc/wwwroot/images/event/e22.png",
+      "PackagePath": "staticwebassets/images/event/e22.png"
+    },
+    {
+      "Id": "/home/ingeniero-james/Documentos/EducacionalMvc/EducacionalMvc/wwwroot/images/event/e3.png",
+      "PackagePath": "staticwebassets/images/event/e3.png"
+    },
+    {
+      "Id": "/home/ingeniero-james/Documentos/EducacionalMvc/EducacionalMvc/wwwroot/images/event/e33.png",
+      "PackagePath": "staticwebassets/images/event/e33.png"
+    },
+    {
+      "Id": "/home/ingeniero-james/Documentos/EducacionalMvc/EducacionalMvc/wwwroot/images/event/e4.png",
+      "PackagePath": "staticwebassets/images/event/e4.png"
+    },
+    {
+      "Id": "/home/ingeniero-james/Documentos/EducacionalMvc/EducacionalMvc/wwwroot/images/event/e5.png",
+      "PackagePath": "staticwebassets/images/event/e5.png"
+    },
+    {
+      "Id": "/home/ingeniero-james/Documentos/EducacionalMvc/EducacionalMvc/wwwroot/images/event/e6.png",
+      "PackagePath": "staticwebassets/images/event/e6.png"
+    },
+    {
+      "Id": "/home/ingeniero-james/Documentos/EducacionalMvc/EducacionalMvc/wwwroot/images/icon/book.svg",
+      "PackagePath": "staticwebassets/images/icon/book.svg"
+    },
+    {
+      "Id": "/home/ingeniero-james/Documentos/EducacionalMvc/EducacionalMvc/wwwroot/images/icon/camera.svg",
+      "PackagePath": "staticwebassets/images/icon/camera.svg"
+    },
+    {
+      "Id": "/home/ingeniero-james/Documentos/EducacionalMvc/EducacionalMvc/wwwroot/images/icon/ck.svg",
+      "PackagePath": "staticwebassets/images/icon/ck.svg"
+    },
+    {
+      "Id": "/home/ingeniero-james/Documentos/EducacionalMvc/EducacionalMvc/wwwroot/images/icon/clock.svg",
+      "PackagePath": "staticwebassets/images/icon/clock.svg"
+    },
+    {
+      "Id": "/home/ingeniero-james/Documentos/EducacionalMvc/EducacionalMvc/wwwroot/images/icon/counter-1.svg",
+      "PackagePath": "staticwebassets/images/icon/counter-1.svg"
+    },
+    {
+      "Id": "/home/ingeniero-james/Documentos/EducacionalMvc/EducacionalMvc/wwwroot/images/icon/counter-2.svg",
+      "PackagePath": "staticwebassets/images/icon/counter-2.svg"
+    },
+    {
+      "Id": "/home/ingeniero-james/Documentos/EducacionalMvc/EducacionalMvc/wwwroot/images/icon/counter-3.svg",
+      "PackagePath": "staticwebassets/images/icon/counter-3.svg"
+    },
+    {
+      "Id": "/home/ingeniero-james/Documentos/EducacionalMvc/EducacionalMvc/wwwroot/images/icon/counter-4.svg",
+      "PackagePath": "staticwebassets/images/icon/counter-4.svg"
+    },
+    {
+      "Id": "/home/ingeniero-james/Documentos/EducacionalMvc/EducacionalMvc/wwwroot/images/icon/ct1.svg",
+      "PackagePath": "staticwebassets/images/icon/ct1.svg"
+    },
+    {
+      "Id": "/home/ingeniero-james/Documentos/EducacionalMvc/EducacionalMvc/wwwroot/images/icon/ct2.svg",
+      "PackagePath": "staticwebassets/images/icon/ct2.svg"
+    },
+    {
+      "Id": "/home/ingeniero-james/Documentos/EducacionalMvc/EducacionalMvc/wwwroot/images/icon/ct3.svg",
+      "PackagePath": "staticwebassets/images/icon/ct3.svg"
+    },
+    {
+      "Id": "/home/ingeniero-james/Documentos/EducacionalMvc/EducacionalMvc/wwwroot/images/icon/ct4.svg",
+      "PackagePath": "staticwebassets/images/icon/ct4.svg"
+    },
+    {
+      "Id": "/home/ingeniero-james/Documentos/EducacionalMvc/EducacionalMvc/wwwroot/images/icon/ct5.svg",
+      "PackagePath": "staticwebassets/images/icon/ct5.svg"
+    },
+    {
+      "Id": "/home/ingeniero-james/Documentos/EducacionalMvc/EducacionalMvc/wwwroot/images/icon/ct6.svg",
+      "PackagePath": "staticwebassets/images/icon/ct6.svg"
+    },
+    {
+      "Id": "/home/ingeniero-james/Documentos/EducacionalMvc/EducacionalMvc/wwwroot/images/icon/fb.svg",
+      "PackagePath": "staticwebassets/images/icon/fb.svg"
+    },
+    {
+      "Id": "/home/ingeniero-james/Documentos/EducacionalMvc/EducacionalMvc/wwwroot/images/icon/file.svg",
+      "PackagePath": "staticwebassets/images/icon/file.svg"
+    },
+    {
+      "Id": "/home/ingeniero-james/Documentos/EducacionalMvc/EducacionalMvc/wwwroot/images/icon/file2.svg",
+      "PackagePath": "staticwebassets/images/icon/file2.svg"
+    },
+    {
+      "Id": "/home/ingeniero-james/Documentos/EducacionalMvc/EducacionalMvc/wwwroot/images/icon/h.svg",
+      "PackagePath": "staticwebassets/images/icon/h.svg"
+    },
+    {
+      "Id": "/home/ingeniero-james/Documentos/EducacionalMvc/EducacionalMvc/wwwroot/images/icon/headphone.svg",
+      "PackagePath": "staticwebassets/images/icon/headphone.svg"
+    },
+    {
+      "Id": "/home/ingeniero-james/Documentos/EducacionalMvc/EducacionalMvc/wwwroot/images/icon/ins.svg",
+      "PackagePath": "staticwebassets/images/icon/ins.svg"
+    },
+    {
+      "Id": "/home/ingeniero-james/Documentos/EducacionalMvc/EducacionalMvc/wwwroot/images/icon/laptop.svg",
+      "PackagePath": "staticwebassets/images/icon/laptop.svg"
+    },
+    {
+      "Id": "/home/ingeniero-james/Documentos/EducacionalMvc/EducacionalMvc/wwwroot/images/icon/like.svg",
+      "PackagePath": "staticwebassets/images/icon/like.svg"
+    },
+    {
+      "Id": "/home/ingeniero-james/Documentos/EducacionalMvc/EducacionalMvc/wwwroot/images/icon/lock.svg",
+      "PackagePath": "staticwebassets/images/icon/lock.svg"
+    },
+    {
+      "Id": "/home/ingeniero-james/Documentos/EducacionalMvc/EducacionalMvc/wwwroot/images/icon/mail.svg",
+      "PackagePath": "staticwebassets/images/icon/mail.svg"
+    },
+    {
+      "Id": "/home/ingeniero-james/Documentos/EducacionalMvc/EducacionalMvc/wwwroot/images/icon/pencil.svg",
+      "PackagePath": "staticwebassets/images/icon/pencil.svg"
+    },
+    {
+      "Id": "/home/ingeniero-james/Documentos/EducacionalMvc/EducacionalMvc/wwwroot/images/icon/pn.svg",
+      "PackagePath": "staticwebassets/images/icon/pn.svg"
+    },
+    {
+      "Id": "/home/ingeniero-james/Documentos/EducacionalMvc/EducacionalMvc/wwwroot/images/icon/rating-1.svg",
+      "PackagePath": "staticwebassets/images/icon/rating-1.svg"
+    },
+    {
+      "Id": "/home/ingeniero-james/Documentos/EducacionalMvc/EducacionalMvc/wwwroot/images/icon/rating-2.svg",
+      "PackagePath": "staticwebassets/images/icon/rating-2.svg"
+    },
+    {
+      "Id": "/home/ingeniero-james/Documentos/EducacionalMvc/EducacionalMvc/wwwroot/images/icon/rating-3.svg",
+      "PackagePath": "staticwebassets/images/icon/rating-3.svg"
+    },
+    {
+      "Id": "/home/ingeniero-james/Documentos/EducacionalMvc/EducacionalMvc/wwwroot/images/icon/rating-4.svg",
+      "PackagePath": "staticwebassets/images/icon/rating-4.svg"
+    },
+    {
+      "Id": "/home/ingeniero-james/Documentos/EducacionalMvc/EducacionalMvc/wwwroot/images/icon/rating-5.svg",
+      "PackagePath": "staticwebassets/images/icon/rating-5.svg"
+    },
+    {
+      "Id": "/home/ingeniero-james/Documentos/EducacionalMvc/EducacionalMvc/wwwroot/images/icon/search.svg",
+      "PackagePath": "staticwebassets/images/icon/search.svg"
+    },
+    {
+      "Id": "/home/ingeniero-james/Documentos/EducacionalMvc/EducacionalMvc/wwwroot/images/icon/star.svg",
+      "PackagePath": "staticwebassets/images/icon/star.svg"
+    },
+    {
+      "Id": "/home/ingeniero-james/Documentos/EducacionalMvc/EducacionalMvc/wwwroot/images/icon/t1.svg",
+      "PackagePath": "staticwebassets/images/icon/t1.svg"
+    },
+    {
+      "Id": "/home/ingeniero-james/Documentos/EducacionalMvc/EducacionalMvc/wwwroot/images/icon/t2.svg",
+      "PackagePath": "staticwebassets/images/icon/t2.svg"
+    },
+    {
+      "Id": "/home/ingeniero-james/Documentos/EducacionalMvc/EducacionalMvc/wwwroot/images/icon/t3.svg",
+      "PackagePath": "staticwebassets/images/icon/t3.svg"
+    },
+    {
+      "Id": "/home/ingeniero-james/Documentos/EducacionalMvc/EducacionalMvc/wwwroot/images/icon/t4.svg",
+      "PackagePath": "staticwebassets/images/icon/t4.svg"
+    },
+    {
+      "Id": "/home/ingeniero-james/Documentos/EducacionalMvc/EducacionalMvc/wwwroot/images/icon/t5.svg",
+      "PackagePath": "staticwebassets/images/icon/t5.svg"
+    },
+    {
+      "Id": "/home/ingeniero-james/Documentos/EducacionalMvc/EducacionalMvc/wwwroot/images/icon/t6.svg",
+      "PackagePath": "staticwebassets/images/icon/t6.svg"
+    },
+    {
+      "Id": "/home/ingeniero-james/Documentos/EducacionalMvc/EducacionalMvc/wwwroot/images/icon/t7.svg",
+      "PackagePath": "staticwebassets/images/icon/t7.svg"
+    },
+    {
+      "Id": "/home/ingeniero-james/Documentos/EducacionalMvc/EducacionalMvc/wwwroot/images/icon/t8.svg",
+      "PackagePath": "staticwebassets/images/icon/t8.svg"
+    },
+    {
+      "Id": "/home/ingeniero-james/Documentos/EducacionalMvc/EducacionalMvc/wwwroot/images/icon/target.svg",
+      "PackagePath": "staticwebassets/images/icon/target.svg"
+    },
+    {
+      "Id": "/home/ingeniero-james/Documentos/EducacionalMvc/EducacionalMvc/wwwroot/images/icon/tw.svg",
+      "PackagePath": "staticwebassets/images/icon/tw.svg"
+    },
+    {
+      "Id": "/home/ingeniero-james/Documentos/EducacionalMvc/EducacionalMvc/wwwroot/images/icon/user.svg",
+      "PackagePath": "staticwebassets/images/icon/user.svg"
+    },
+    {
+      "Id": "/home/ingeniero-james/Documentos/EducacionalMvc/EducacionalMvc/wwwroot/images/icon/user2.svg",
+      "PackagePath": "staticwebassets/images/icon/user2.svg"
+    },
+    {
+      "Id": "/home/ingeniero-james/Documentos/EducacionalMvc/EducacionalMvc/wwwroot/images/icon/user3.svg",
+      "PackagePath": "staticwebassets/images/icon/user3.svg"
+    },
+    {
+      "Id": "/home/ingeniero-james/Documentos/EducacionalMvc/EducacionalMvc/wwwroot/images/icon/video.svg",
+      "PackagePath": "staticwebassets/images/icon/video.svg"
+    },
+    {
+      "Id": "/home/ingeniero-james/Documentos/EducacionalMvc/EducacionalMvc/wwwroot/images/icon/web-white.svg",
+      "PackagePath": "staticwebassets/images/icon/web-white.svg"
+    },
+    {
+      "Id": "/home/ingeniero-james/Documentos/EducacionalMvc/EducacionalMvc/wwwroot/images/icon/web.svg",
+      "PackagePath": "staticwebassets/images/icon/web.svg"
+    },
+    {
+      "Id": "/home/ingeniero-james/Documentos/EducacionalMvc/EducacionalMvc/wwwroot/images/icon/white-check.svg",
+      "PackagePath": "staticwebassets/images/icon/white-check.svg"
+    },
+    {
+      "Id": "/home/ingeniero-james/Documentos/EducacionalMvc/EducacionalMvc/wwwroot/images/icon/wifi.svg",
+      "PackagePath": "staticwebassets/images/icon/wifi.svg"
+    },
+    {
+      "Id": "/home/ingeniero-james/Documentos/EducacionalMvc/EducacionalMvc/wwwroot/images/shop/1.jpg",
+      "PackagePath": "staticwebassets/images/shop/1.jpg"
+    },
+    {
+      "Id": "/home/ingeniero-james/Documentos/EducacionalMvc/EducacionalMvc/wwwroot/images/shop/1.png",
+      "PackagePath": "staticwebassets/images/shop/1.png"
+    },
+    {
+      "Id": "/home/ingeniero-james/Documentos/EducacionalMvc/EducacionalMvc/wwwroot/images/shop/2.jpg",
+      "PackagePath": "staticwebassets/images/shop/2.jpg"
+    },
+    {
+      "Id": "/home/ingeniero-james/Documentos/EducacionalMvc/EducacionalMvc/wwwroot/images/shop/3.jpg",
+      "PackagePath": "staticwebassets/images/shop/3.jpg"
+    },
+    {
+      "Id": "/home/ingeniero-james/Documentos/EducacionalMvc/EducacionalMvc/wwwroot/images/shop/4.jpg",
+      "PackagePath": "staticwebassets/images/shop/4.jpg"
+    },
+    {
+      "Id": "/home/ingeniero-james/Documentos/EducacionalMvc/EducacionalMvc/wwwroot/images/shop/5.jpg",
+      "PackagePath": "staticwebassets/images/shop/5.jpg"
+    },
+    {
+      "Id": "/home/ingeniero-james/Documentos/EducacionalMvc/EducacionalMvc/wwwroot/images/shop/6.jpg",
+      "PackagePath": "staticwebassets/images/shop/6.jpg"
+    },
+    {
+      "Id": "/home/ingeniero-james/Documentos/EducacionalMvc/EducacionalMvc/wwwroot/images/shop/7.jpg",
+      "PackagePath": "staticwebassets/images/shop/7.jpg"
+    },
+    {
+      "Id": "/home/ingeniero-james/Documentos/EducacionalMvc/EducacionalMvc/wwwroot/images/shop/8.jpg",
+      "PackagePath": "staticwebassets/images/shop/8.jpg"
+    },
+    {
+      "Id": "/home/ingeniero-james/Documentos/EducacionalMvc/EducacionalMvc/wwwroot/images/shop/cart1.jpg",
+      "PackagePath": "staticwebassets/images/shop/cart1.jpg"
+    },
+    {
+      "Id": "/home/ingeniero-james/Documentos/EducacionalMvc/EducacionalMvc/wwwroot/images/shop/cart2.jpg",
+      "PackagePath": "staticwebassets/images/shop/cart2.jpg"
+    },
+    {
+      "Id": "/home/ingeniero-james/Documentos/EducacionalMvc/EducacionalMvc/wwwroot/images/shop/cart3.jpg",
+      "PackagePath": "staticwebassets/images/shop/cart3.jpg"
+    },
+    {
+      "Id": "/home/ingeniero-james/Documentos/EducacionalMvc/EducacionalMvc/wwwroot/images/team/1.jpg",
+      "PackagePath": "staticwebassets/images/team/1.jpg"
+    },
+    {
+      "Id": "/home/ingeniero-james/Documentos/EducacionalMvc/EducacionalMvc/wwwroot/images/team/2.jpg",
+      "PackagePath": "staticwebassets/images/team/2.jpg"
+    },
+    {
+      "Id": "/home/ingeniero-james/Documentos/EducacionalMvc/EducacionalMvc/wwwroot/images/team/3.jpg",
+      "PackagePath": "staticwebassets/images/team/3.jpg"
+    },
+    {
+      "Id": "/home/ingeniero-james/Documentos/EducacionalMvc/EducacionalMvc/wwwroot/images/team/4.jpg",
+      "PackagePath": "staticwebassets/images/team/4.jpg"
+    },
+    {
+      "Id": "/home/ingeniero-james/Documentos/EducacionalMvc/EducacionalMvc/wwwroot/js/ScrollSmoother.min.js",
+      "PackagePath": "staticwebassets/js/ScrollSmoother.min.js"
+    },
+    {
+      "Id": "/home/ingeniero-james/Documentos/EducacionalMvc/EducacionalMvc/wwwroot/js/ScrollTrigger.min.js",
+      "PackagePath": "staticwebassets/js/ScrollTrigger.min.js"
+    },
+    {
+      "Id": "/home/ingeniero-james/Documentos/EducacionalMvc/EducacionalMvc/wwwroot/js/gsap.min.js",
+      "PackagePath": "staticwebassets/js/gsap.min.js"
+    },
+    {
+      "Id": "/home/ingeniero-james/Documentos/EducacionalMvc/EducacionalMvc/wwwroot/js/jquery-1.12.4.min.js",
+      "PackagePath": "staticwebassets/js/jquery-1.12.4.min.js"
+    },
+    {
+      "Id": "/home/ingeniero-james/Documentos/EducacionalMvc/EducacionalMvc/wwwroot/js/jquery-simple-mobilemenu.js",
+      "PackagePath": "staticwebassets/js/jquery-simple-mobilemenu.js"
+    },
+    {
+      "Id": "/home/ingeniero-james/Documentos/EducacionalMvc/EducacionalMvc/wwwroot/js/jquery.inview.min.js",
+      "PackagePath": "staticwebassets/js/jquery.inview.min.js"
+    },
+    {
+      "Id": "/home/ingeniero-james/Documentos/EducacionalMvc/EducacionalMvc/wwwroot/js/jquery.magnific-popup.min.js",
+      "PackagePath": "staticwebassets/js/jquery.magnific-popup.min.js"
+    },
+    {
+      "Id": "/home/ingeniero-james/Documentos/EducacionalMvc/EducacionalMvc/wwwroot/js/jquery.mixitup.js",
+      "PackagePath": "staticwebassets/js/jquery.mixitup.js"
+    },
+    {
+      "Id": "/home/ingeniero-james/Documentos/EducacionalMvc/EducacionalMvc/wwwroot/js/jquery.nav.js",
+      "PackagePath": "staticwebassets/js/jquery.nav.js"
+    },
+    {
+      "Id": "/home/ingeniero-james/Documentos/EducacionalMvc/EducacionalMvc/wwwroot/js/jquery.slicknav.js",
+      "PackagePath": "staticwebassets/js/jquery.slicknav.js"
+    },
+    {
+      "Id": "/home/ingeniero-james/Documentos/EducacionalMvc/EducacionalMvc/wwwroot/js/lenis.js",
+      "PackagePath": "staticwebassets/js/lenis.js"
+    },
+    {
+      "Id": "/home/ingeniero-james/Documentos/EducacionalMvc/EducacionalMvc/wwwroot/js/nicesellect.js",
+      "PackagePath": "staticwebassets/js/nicesellect.js"
+    },
+    {
+      "Id": "/home/ingeniero-james/Documentos/EducacionalMvc/EducacionalMvc/wwwroot/js/scripts.js",
+      "PackagePath": "staticwebassets/js/scripts.js"
+    },
+    {
+      "Id": "/home/ingeniero-james/Documentos/EducacionalMvc/EducacionalMvc/wwwroot/js/scrolltopcontrol.js",
+      "PackagePath": "staticwebassets/js/scrolltopcontrol.js"
+    },
+    {
+      "Id": "/home/ingeniero-james/Documentos/EducacionalMvc/EducacionalMvc/wwwroot/js/site.js",
+      "PackagePath": "staticwebassets/js/site.js"
+    },
+    {
+      "Id": "/home/ingeniero-james/Documentos/EducacionalMvc/EducacionalMvc/wwwroot/js/smoother-script.js",
+      "PackagePath": "staticwebassets/js/smoother-script.js"
+    },
+    {
+      "Id": "/home/ingeniero-james/Documentos/EducacionalMvc/EducacionalMvc/wwwroot/js/wow.min.js",
+      "PackagePath": "staticwebassets/js/wow.min.js"
+    },
+    {
+      "Id": "/home/ingeniero-james/Documentos/EducacionalMvc/EducacionalMvc/wwwroot/lib/bootstrap/LICENSE",
+      "PackagePath": "staticwebassets/lib/bootstrap"
+    },
+    {
+      "Id": "/home/ingeniero-james/Documentos/EducacionalMvc/EducacionalMvc/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.css"
+    },
+    {
+      "Id": "/home/ingeniero-james/Documentos/EducacionalMvc/EducacionalMvc/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.css.map"
+    },
+    {
+      "Id": "/home/ingeniero-james/Documentos/EducacionalMvc/EducacionalMvc/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.min.css"
+    },
+    {
+      "Id": "/home/ingeniero-james/Documentos/EducacionalMvc/EducacionalMvc/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "/home/ingeniero-james/Documentos/EducacionalMvc/EducacionalMvc/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "/home/ingeniero-james/Documentos/EducacionalMvc/EducacionalMvc/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "/home/ingeniero-james/Documentos/EducacionalMvc/EducacionalMvc/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "/home/ingeniero-james/Documentos/EducacionalMvc/EducacionalMvc/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "/home/ingeniero-james/Documentos/EducacionalMvc/EducacionalMvc/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.css"
+    },
+    {
+      "Id": "/home/ingeniero-james/Documentos/EducacionalMvc/EducacionalMvc/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "/home/ingeniero-james/Documentos/EducacionalMvc/EducacionalMvc/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "/home/ingeniero-james/Documentos/EducacionalMvc/EducacionalMvc/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "/home/ingeniero-james/Documentos/EducacionalMvc/EducacionalMvc/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "/home/ingeniero-james/Documentos/EducacionalMvc/EducacionalMvc/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "/home/ingeniero-james/Documentos/EducacionalMvc/EducacionalMvc/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "/home/ingeniero-james/Documentos/EducacionalMvc/EducacionalMvc/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "/home/ingeniero-james/Documentos/EducacionalMvc/EducacionalMvc/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.css"
+    },
+    {
+      "Id": "/home/ingeniero-james/Documentos/EducacionalMvc/EducacionalMvc/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "/home/ingeniero-james/Documentos/EducacionalMvc/EducacionalMvc/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "/home/ingeniero-james/Documentos/EducacionalMvc/EducacionalMvc/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "/home/ingeniero-james/Documentos/EducacionalMvc/EducacionalMvc/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "/home/ingeniero-james/Documentos/EducacionalMvc/EducacionalMvc/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "/home/ingeniero-james/Documentos/EducacionalMvc/EducacionalMvc/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "/home/ingeniero-james/Documentos/EducacionalMvc/EducacionalMvc/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "/home/ingeniero-james/Documentos/EducacionalMvc/EducacionalMvc/wwwroot/lib/bootstrap/dist/css/bootstrap.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.css"
+    },
+    {
+      "Id": "/home/ingeniero-james/Documentos/EducacionalMvc/EducacionalMvc/wwwroot/lib/bootstrap/dist/css/bootstrap.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.css.map"
+    },
+    {
+      "Id": "/home/ingeniero-james/Documentos/EducacionalMvc/EducacionalMvc/wwwroot/lib/bootstrap/dist/css/bootstrap.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.min.css"
+    },
+    {
+      "Id": "/home/ingeniero-james/Documentos/EducacionalMvc/EducacionalMvc/wwwroot/lib/bootstrap/dist/css/bootstrap.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.min.css.map"
+    },
+    {
+      "Id": "/home/ingeniero-james/Documentos/EducacionalMvc/EducacionalMvc/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.rtl.css"
+    },
+    {
+      "Id": "/home/ingeniero-james/Documentos/EducacionalMvc/EducacionalMvc/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "/home/ingeniero-james/Documentos/EducacionalMvc/EducacionalMvc/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "/home/ingeniero-james/Documentos/EducacionalMvc/EducacionalMvc/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "/home/ingeniero-james/Documentos/EducacionalMvc/EducacionalMvc/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.bundle.js"
+    },
+    {
+      "Id": "/home/ingeniero-james/Documentos/EducacionalMvc/EducacionalMvc/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "/home/ingeniero-james/Documentos/EducacionalMvc/EducacionalMvc/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "/home/ingeniero-james/Documentos/EducacionalMvc/EducacionalMvc/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "/home/ingeniero-james/Documentos/EducacionalMvc/EducacionalMvc/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.esm.js"
+    },
+    {
+      "Id": "/home/ingeniero-james/Documentos/EducacionalMvc/EducacionalMvc/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.esm.js.map"
+    },
+    {
+      "Id": "/home/ingeniero-james/Documentos/EducacionalMvc/EducacionalMvc/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.esm.min.js"
+    },
+    {
+      "Id": "/home/ingeniero-james/Documentos/EducacionalMvc/EducacionalMvc/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "/home/ingeniero-james/Documentos/EducacionalMvc/EducacionalMvc/wwwroot/lib/bootstrap/dist/js/bootstrap.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.js"
+    },
+    {
+      "Id": "/home/ingeniero-james/Documentos/EducacionalMvc/EducacionalMvc/wwwroot/lib/bootstrap/dist/js/bootstrap.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.js.map"
+    },
+    {
+      "Id": "/home/ingeniero-james/Documentos/EducacionalMvc/EducacionalMvc/wwwroot/lib/bootstrap/dist/js/bootstrap.min.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.min.js"
+    },
+    {
+      "Id": "/home/ingeniero-james/Documentos/EducacionalMvc/EducacionalMvc/wwwroot/lib/bootstrap/dist/js/bootstrap.min.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.min.js.map"
+    },
+    {
+      "Id": "/home/ingeniero-james/Documentos/EducacionalMvc/EducacionalMvc/wwwroot/lib/jquery-validation-unobtrusive/LICENSE.txt",
+      "PackagePath": "staticwebassets/lib/jquery-validation-unobtrusive/LICENSE.txt"
+    },
+    {
+      "Id": "/home/ingeniero-james/Documentos/EducacionalMvc/EducacionalMvc/wwwroot/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "/home/ingeniero-james/Documentos/EducacionalMvc/EducacionalMvc/wwwroot/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "/home/ingeniero-james/Documentos/EducacionalMvc/EducacionalMvc/wwwroot/lib/jquery-validation/LICENSE.md",
+      "PackagePath": "staticwebassets/lib/jquery-validation/LICENSE.md"
+    },
+    {
+      "Id": "/home/ingeniero-james/Documentos/EducacionalMvc/EducacionalMvc/wwwroot/lib/jquery-validation/dist/additional-methods.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation/dist/additional-methods.js"
+    },
+    {
+      "Id": "/home/ingeniero-james/Documentos/EducacionalMvc/EducacionalMvc/wwwroot/lib/jquery-validation/dist/additional-methods.min.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation/dist/additional-methods.min.js"
+    },
+    {
+      "Id": "/home/ingeniero-james/Documentos/EducacionalMvc/EducacionalMvc/wwwroot/lib/jquery-validation/dist/jquery.validate.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation/dist/jquery.validate.js"
+    },
+    {
+      "Id": "/home/ingeniero-james/Documentos/EducacionalMvc/EducacionalMvc/wwwroot/lib/jquery-validation/dist/jquery.validate.min.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation/dist/jquery.validate.min.js"
+    },
+    {
+      "Id": "/home/ingeniero-james/Documentos/EducacionalMvc/EducacionalMvc/wwwroot/lib/jquery/LICENSE.txt",
+      "PackagePath": "staticwebassets/lib/jquery/LICENSE.txt"
+    },
+    {
+      "Id": "/home/ingeniero-james/Documentos/EducacionalMvc/EducacionalMvc/wwwroot/lib/jquery/dist/jquery.js",
+      "PackagePath": "staticwebassets/lib/jquery/dist/jquery.js"
+    },
+    {
+      "Id": "/home/ingeniero-james/Documentos/EducacionalMvc/EducacionalMvc/wwwroot/lib/jquery/dist/jquery.min.js",
+      "PackagePath": "staticwebassets/lib/jquery/dist/jquery.min.js"
+    },
+    {
+      "Id": "/home/ingeniero-james/Documentos/EducacionalMvc/EducacionalMvc/wwwroot/lib/jquery/dist/jquery.min.map",
+      "PackagePath": "staticwebassets/lib/jquery/dist/jquery.min.map"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.EducacionalMvc.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.build.EducacionalMvc.props",
+      "PackagePath": "build\\EducacionalMvc.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.EducacionalMvc.props",
+      "PackagePath": "buildMultiTargeting\\EducacionalMvc.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.EducacionalMvc.props",
+      "PackagePath": "buildTransitive\\EducacionalMvc.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
